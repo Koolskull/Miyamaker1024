@@ -35,27 +35,27 @@ const format = {
 
 const background = {
   generate: true,
-  brightness: "80%",
+  brightness: "100%",
 };
 
 const layerConfigurations = [
   {
     growEditionSizeTo: 10,
-    namePrefix: "Series 2", // Use to add a name to Metadata `name:`
+    namePrefix: "Miyamaker", // Use to add a name to Metadata `name:`
     layersOrder: [
       { name: "Background" },
-      {
-        name: "Back Accessory",
-        // options: {
-        //   bypassDNA: true,
-        // },
-      },
-      { name: "Head" },
-      { name: "Clothes" },
+      { name: "Body"},
       { name: "Eyes" },
+      { name: "Mouth" },
+      { name: "Nose" },
+      { name: "Top" },
       { name: "Hair" },
-      { name: "Accessory" },
-      { name: "Shirt Accessories" },
+      { name: "Mask" },
+      { name: "Hat" },
+      { name: "Left Arm" },
+      { name: "Right Arm" },
+      { name: "Overlay" },
+      { name: "Overlay 2" },
     ],
   },
   // {
