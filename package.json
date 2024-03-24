@@ -1,0 +1,44 @@
+{
+  "name": "nftchef-art-engine",
+  "version": "2.2.0",
+  "description": "NFTChef Fork - Hard fork from HashLips Art Engine, is a tool used to create multiple different instances of artworks based on provided layers. Most config is the same as Hashlips",
+  "main": "index.js",
+  "bin": {
+    "nftchef-art-engine": "index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "generate": "node index.js",
+    "generate:solana": "node index.js && node utils/metaplex.js",
+    "generate:cardano": "node index.js && node utils/cardano.js",
+    "generate:tezos": "node index.js && node utils/tezos.js",
+    "preview": "node utils/createPreviewCollage.js",
+    "gif": "node utils/preview_gif.js",
+    "update:metadata": "node utils/updateInfo.js",
+    "update_info:tezos": "node tezos/updateInfo.js",
+    "resize": "node utils/resize.js",
+    "rarity": "node utils/rarity.js"
+  },
+  "author": "Daniel Eugene Botha (HashLips)",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "csv-writer": "^1.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "keccak256": "^1.0.3",
+    "sharp": "^0.30.2",
+    "gif-encoder-2": "^1.0.5"
+  }
+}
