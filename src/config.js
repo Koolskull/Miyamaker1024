@@ -28,8 +28,8 @@ const outputJPEG = false; // if false, the generator outputs png's
 const startIndex = 0;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 1024,
+  height: 1024,
   smoothing: true, // set to false when up-scaling pixel art.
 };
 
@@ -44,7 +44,7 @@ const layerConfigurations = [
     namePrefix: "Miyamaker", // Use to add a name to Metadata `name:`
     layersOrder: [
       { name: "Background" },
-      { name: "Body"},
+      { name: "Body" },
       { name: "Eyes" },
       { name: "Mouth" },
       { name: "Nose" },

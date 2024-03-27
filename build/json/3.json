@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #3",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "imageHash": "963f7ab4359204eccd9c55527dd9b76259f8e5e7fc64c0bd28a8cbafe3696eb6",
+  "edition": 3,
+  "date": 1711577745963,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Old World Construction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Venom Glitché"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Raised Brow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Tank"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Light Blue Braided"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Remilia Corp Cap"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Green"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Wielding Electricity"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "You've been Loved by Christ"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Laser Eyes Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

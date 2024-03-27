@@ -1,0 +1,67 @@
+{
+  "name": "Miyamaker #2",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "imageHash": "027487efc2a286d711c2fd92ca822d16600adb99b95476000d35fe852697ff40",
+  "edition": 2,
+  "date": 1711577745541,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Selfie Glitch"
+    },
+    {
+      "trait_type": "layers",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Illuminated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Raised Brow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "80's Monochrome Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Spy Shades"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vultures"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "100 PERCENT CRAZY"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "This Holy SON OF A VIRGIN"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #1",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "imageHash": "b9c4124ecab4a52178be29c90d70e132a5999f83801aae392ed995a84e5d0d05",
+  "edition": 1,
+  "date": 1711577745091,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Apocalypse Sky 01"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitch Aura 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Embroidered Mexican Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink and Blue blend Bangs Copy"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "VeilGazer Cyborg"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miyamaker Logo"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Master Chief Holding Money"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Lightcode Glitch 04 Ascension"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "You Broke The CYcle"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

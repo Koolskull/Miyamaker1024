@@ -1,0 +1,67 @@
+{
+  "name": "Miyamaker #9",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "imageHash": "6429d1d1abbc32961f135ccde96f3eaa8180b5dfbb11cdec487efce4e7f692d7",
+  "edition": 9,
+  "date": 1711577748471,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Background"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyborg Sister and ascended sisters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Faded Wavy Glitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unhappy Frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Jogger with Lavendar Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mowhawk"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Heart Skull Digital Vision Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Loved by Christ Psyop Skull"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Middle Finger"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Praise KEK"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "How Much I ACTUALLY love you"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
