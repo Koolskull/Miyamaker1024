@@ -3,25 +3,25 @@
     "name": "Miyamaker #0",
     "description": "This is the description of your NFT project, remember to replace this",
     "image": "ipfs://NewUriToReplace/0.png",
-    "imageHash": "5dd93a2e03126a9707a2981b5fcdc43e84e5d05f2d2659ea07536ec18251ad4c",
+    "imageHash": "33238047cd061c8c5cde8b53543a8d3e170fa69ee7e179483d9635315a7a141e",
     "edition": 0,
-    "date": 1711586162708,
+    "date": 1711655855314,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Mugs Ford Wagon"
+        "value": "Neon Hallway B&W"
       },
       {
         "trait_type": "Body",
-        "value": "Mexican"
+        "value": "Tan"
       },
       {
         "trait_type": "Eyes",
-        "value": "Smile eyes"
+        "value": "Monochromatic Question Mark"
       },
       {
         "trait_type": "Mouth",
-        "value": "Light pink lipstick"
+        "value": "smirk"
       },
       {
         "trait_type": "Nose",
@@ -29,27 +29,19 @@
       },
       {
         "trait_type": "Top",
-        "value": "Bubblegum Skull Army Spacesuit"
+        "value": "Lavender Floral Quincenera Dress"
       },
       {
         "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Heart Skull Digital Vision Mask"
+        "value": "Teal Messy Center part with Skull Bows"
       },
       {
         "trait_type": "Hat",
-        "value": "Aztec Warrior"
+        "value": "Please Be Patient with me im soooooooooo"
       },
       {
-        "trait_type": "Overlay",
-        "value": "They Think im Dora the way my Bag Talk"
+        "trait_type": "Overlay 3",
+        "value": "Blah Blah Blah"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
@@ -58,17 +50,17 @@
     "name": "Miyamaker #1",
     "description": "This is the description of your NFT project, remember to replace this",
     "image": "ipfs://NewUriToReplace/1.png",
-    "imageHash": "e9389292e583d13d9e076ea742eec2352c8fb907334f6cd3287d8dd0774c2ab0",
+    "imageHash": "c97ef0bff5621a21f60fdb7a61106340b0ab3a3583684091ae59dc8bad53fec3",
     "edition": 1,
-    "date": 1711586163152,
+    "date": 1711655855704,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "NEVER GOON"
+        "value": "Ganesh"
       },
       {
         "trait_type": "Body",
-        "value": "Glitch Aura"
+        "value": "Tan"
       },
       {
         "trait_type": "Eyes",
@@ -76,7 +68,7 @@
       },
       {
         "trait_type": "Mouth",
-        "value": "Lil Smile"
+        "value": "Stitched Shut"
       },
       {
         "trait_type": "Nose",
@@ -84,27 +76,11 @@
       },
       {
         "trait_type": "Top",
-        "value": "Neopolitan Hand Sewn Tee"
+        "value": "Pink Intergalactic Star Dress"
       },
       {
         "trait_type": "Hair",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miya Ranger"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Master Chief Cigar"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Master Chief Holding Money"
+        "value": "Black Straight"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
@@ -113,13 +89,13 @@
     "name": "Miyamaker #2",
     "description": "This is the description of your NFT project, remember to replace this",
     "image": "ipfs://NewUriToReplace/2.png",
-    "imageHash": "72c36870ff8ebaf8f0f612051ae6527b4c8586122fd386171654e073a2cfed74",
+    "imageHash": "1c47c645e3510eed53a8354fc20a92abaeedbc1f9b5ac8092496d6a88582df92",
     "edition": 2,
-    "date": 1711586163523,
+    "date": 1711655856096,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Alien Spaceship"
+        "value": "I dont want to marry for convenience"
       },
       {
         "trait_type": "Body",
@@ -127,852 +103,11 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Sad McChibi"
+        "value": "Monochromatic Question Mark"
       },
       {
         "trait_type": "Mouth",
-        "value": "srs"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Space Communist"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Norse Blonde hair with Princess Braids"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "KOOLSKULL LOGO"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "100 PERCENT CRAZY"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #3",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/3.png",
-    "imageHash": "50b19ba514651b84b17c8d700f04f3a90708f66c91f3f1c1e8517639dda34da2",
-    "edition": 3,
-    "date": 1711586163976,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Cows in Old Ruins"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Squinted Bushy Brows"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "cigarette"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Red Baggy Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Dreadlocks with Green Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brown Curly"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "MIYA GOLD MOGGERS"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miyamaker Logo"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Dredd Pirate Roberts"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "How Much I ACTUALLY love you"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #4",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/4.png",
-    "imageHash": "64b96522d352a51a4ce767373f002e35b01a4281fb99bf046709f07bd717b73a",
-    "edition": 4,
-    "date": 1711586164467,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Dark Angel Portal"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Raised Brow"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Red Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Western Jean Sleeveless"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Black Straight Straight Bangs with Diamond Clip"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Master Chief Holding Money"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Holy Bible"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #5",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/5.png",
-    "imageHash": "7bc7447605ccbf7709bacf11149f97341dfe8aa6199ff1d9ddf748553dabc96d",
-    "edition": 5,
-    "date": 1711586164888,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Safe as Milk"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Alien"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Red Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Ripped Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bob"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Kpop Hand with Green Nails and Milady Tattoo"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Look at my Lawyer Dawg"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #6",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/6.png",
-    "imageHash": "c89a8582e007ff084378a861da06630be4efd8aa41ce584664411d601449f1c9",
-    "edition": 6,
-    "date": 1711586165269,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Reaper DAW"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "SHOCKED"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lil Smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Green Jogger with Lavendar Trim"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Machine Gun"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "100 PERCENT CUTE"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #7",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/7.png",
-    "imageHash": "125f3bb7fc06f8aa4bdf2f97573e772bfe322fbadee672a3404a6f030e6d3d46",
-    "edition": 7,
-    "date": 1711586165791,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Q-Web Holographic"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed Pleased"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Big smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Purple"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Reaper DAW Scythe"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "SCHIZOFRENAC RACIST IS TALKING"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Grab em by the Pussy In Bio"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #8",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/8.png",
-    "imageHash": "c5c15ce4d8aeecfa3c605c1aea5f0c94aeda1b5e724d6bdb34d2e122c5e6e194",
-    "edition": 8,
-    "date": 1711586166266,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Vapor Train"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Neopolitan Hand Sewn Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Spiky Bangs Bluegreen"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brown Curly"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "El Basico de Bastidas Luchador Mask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miyamaker Great Again Red Trucker"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "cuteSMS"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #9",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/9.png",
-    "imageHash": "1ca7015a9257821cb353660da613b40f48e5cb7869d26c42a404a821c1c86e30",
-    "edition": 9,
-    "date": 1711586166811,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Q-Web Holographic"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "squinted"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Light pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "80's Monochrome Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Pigtails"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Cake Slice"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Red"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "You've been Loved by Christ"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #10",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/10.png",
-    "imageHash": "f840b134d1ed45bc8f1c642a95ce7dd7bf4fbfb8d979e64e95137ae6ab944b13",
-    "edition": 10,
-    "date": 1711586167232,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Portals in her Apartment"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Reptilian Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Miya Maid"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Starberry Beret"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #11",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/11.png",
-    "imageHash": "be415a752652ac11bf4a52e6e3fb93c24e1f1df92f484db6ded2f9c67f27f9e9",
-    "edition": 11,
-    "date": 1711586167644,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Neon Hallway B&W"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dataswirls"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Smile eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Embroidered Miya Baseball Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Brown Curly"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Loved by Christ Psyop Skull"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Silk Road Logo"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "YOu SO Wanna Be Gangsta Like US"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #12",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/12.png",
-    "imageHash": "62a99a899b092dcefb6a41368ef344f27bc204fe87d4f49f75ab09cd46f1ad94",
-    "edition": 12,
-    "date": 1711586168043,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Meta Planet"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "squinted"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "SHOCKED"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "White Milady Dress with Pink Bow"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Radbro Cut"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "MAGA"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Holy Bible"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "NIgger Mode - ON"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #13",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/13.png",
-    "imageHash": "a124b0245db65f2d90ee66e379645a0a52713f8de388c8d5e7ed17f364b8102f",
-    "edition": 13,
-    "date": 1711586168434,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Y2K Browser"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Glitch Aura 3"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Floral Dress with Bee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Straight"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bob"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Middle Finger"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Fact Checked"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Kekistani Flag"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #14",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/14.png",
-    "imageHash": "0c5c377cfaed2888f56085e73ad961e28033f3cba5936860b84642bf284306b8",
-    "edition": 14,
-    "date": 1711586168934,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Blossom"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
         "value": "Hangry"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Miya Metal Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Pastel Green Emo Swoop"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Reaper DAW Scythe"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "cuteSMS"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #15",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/15.png",
-    "imageHash": "87321c32e93768312a61068106a9b7f62d4b291c3c424f4d89779258532244fe",
-    "edition": 15,
-    "date": 1711586169387,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Safe as Milk"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hyper-dimensional eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Tank"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Brown Side Part"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Curls"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Master Chief Cigar"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #16",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/16.png",
-    "imageHash": "e8b00bba2e10a7ffe2faa800ba3e55255b5645f5a836dbcc1d9396779a7a82c5",
-    "edition": 16,
-    "date": 1711586169828,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Geisha Sisters"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "squinted"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Unhappy Frown"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Red Baggy Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Brown Long Wavy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miya Ranger"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #17",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/17.png",
-    "imageHash": "e7f4ed71481e9d4355b51ec03bdd275400f74915f803150f04f757012a9e90d6",
-    "edition": 17,
-    "date": 1711586170417,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Q-Web Holographic"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Reptilian Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Black Lipstick"
       },
       {
         "trait_type": "Nose",
@@ -984,46 +119,54 @@
       },
       {
         "trait_type": "Hair",
-        "value": "Short Spiky Bangs Bluegreen"
+        "value": "McChibi Sailor Braid Buns"
       },
       {
-        "trait_type": "Hair Behind",
-        "value": "Long Norse Blonde hair with Princess Braids"
+        "trait_type": "Mask",
+        "value": "Gasmask"
       },
       {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
+        "trait_type": "Left Arm",
+        "value": "Samurai Sword with Blood"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Kpop Hand with Green Nails and Milady Tattoo"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Radcat"
       },
       {
         "trait_type": "Overlay 2",
-        "value": "Gangsta Sanic"
+        "value": "Holy Bible"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #18",
+    "name": "Miyamaker #3",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/18.png",
-    "imageHash": "33ab8f22715e71ca2352af16c36b260e9eb06dac8c7ed4fd9c9b733f26e4fa9b",
-    "edition": 18,
-    "date": 1711586170884,
+    "image": "ipfs://NewUriToReplace/3.png",
+    "imageHash": "f709aba28e48a15818d3933516b08fa96b3574f237f34968a01db276839c592b",
+    "edition": 3,
+    "date": 1711655856456,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Psykos Yung Lean"
+        "value": "MiyaMakerPyramid"
       },
       {
         "trait_type": "Body",
-        "value": "Pink Alien"
+        "value": "Ascended Vril BlueGreen"
       },
       {
         "trait_type": "Eyes",
-        "value": "Monochromatic Question Mark"
+        "value": "Sad McChibi"
       },
       {
         "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
+        "value": "Lil Smile"
       },
       {
         "trait_type": "Nose",
@@ -1031,38 +174,89 @@
       },
       {
         "trait_type": "Top",
-        "value": "Orange Robe"
+        "value": "Wrinkled Dark Grey Shirt"
       },
       {
         "trait_type": "Hair",
-        "value": "Black Straight Straight Bangs with Diamond Clip"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Christs Army Helmet"
+        "value": "Brown Curly"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Golden Machine Gun with Cyborg Hand"
+        "value": "Lightsaber Red"
       },
       {
         "trait_type": "Overlay 2",
-        "value": "Vaxxx Nazi"
+        "value": "Terry Webcam"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Thug That Shit Out Remilia"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #19",
+    "name": "Miyamaker #4",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/19.png",
-    "imageHash": "c92dcb0764ca762fd455cd70bd26bee2fcc37713b8591cd0155fc5c1bc52674b",
-    "edition": 19,
-    "date": 1711586171283,
+    "image": "ipfs://NewUriToReplace/4.png",
+    "imageHash": "4941c2b7cbe59e3eee4ef6ad71f2ec2b9305188f29d454bb601b07d3f804c31c",
+    "edition": 4,
+    "date": 1711655856913,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Inside Salvation Mountain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Neon Jesus Glitch"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Raised Brow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "srs"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Miya Maid"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dreadlocks with Green Bangs"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Miyamaker Great Again Red Trucker"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "have you hugged an emo kid today"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Born to RAD"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Your Opinion in the trash"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #5",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "imageHash": "d12e1ceba27ce4b77b887a821fffa3289c064628c174e6cc7f72356c3aabb0df",
+    "edition": 5,
+    "date": 1711655857289,
     "attributes": [
       {
         "trait_type": "Background",
@@ -1074,447 +268,7 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "80's Monochrome Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Strawbie"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Golden Handgun"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "have you hugged an emo kid today"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #20",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/20.png",
-    "imageHash": "d8d2597ec625478d5753942e92f62e52b8ca79e77e18633c372149f3b7033e55",
-    "edition": 20,
-    "date": 1711586171710,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Hindu Temple"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "MAGA"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "I LOVE YOU"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #21",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/21.png",
-    "imageHash": "68dba4a4b206a07fc7056282dc5cb7d99e4680f3aa103e32642a33a25f632ab3",
-    "edition": 21,
-    "date": 1711586172048,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Japanese Goddess"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Hangry"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Orange Robe"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Tie Up with Braids"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Curls"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Praise KEK"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #22",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/22.png",
-    "imageHash": "8d5e6abd04c3ca34b95b6ec94f911ac697124cb9b9e743295a86b7cc2f7e4f8e",
-    "edition": 22,
-    "date": 1711586172528,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "wow she is LITERALLY me!"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Glitch Aura 2"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Priest"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Please Be Patient with me im soooooooooo"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Trump Higher"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Su"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #23",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/23.png",
-    "imageHash": "676f257d7453d9383805b9e62b0437ae4cf138d3a3fa9c8b12348b5ee8291238",
-    "edition": 23,
-    "date": 1711586172994,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Geisha Sisters"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Hangry"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Floral Dress with Bee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Green Milady Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Dreadlocks with Green Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Cyborg Cat Ears"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "P0nch0mon"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "MVP"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #24",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/24.png",
-    "imageHash": "5f76ab28a20282bc1e9339a5fb54eb83b3d7b0d3ded45fcd0209dbb30fee10ba",
-    "edition": 24,
-    "date": 1711586173368,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Satoshi Dice"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Squinted Bushy Brows"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Miya Sweater"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Mowhawk"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #25",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/25.png",
-    "imageHash": "ab014eaba500b58e6a4f30fc26908aaf349e220c35818b777c10b1db114a8753",
-    "edition": 25,
-    "date": 1711586173799,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Neon City"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Ripped Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde spiked Bangs"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "MIYA GOLD MOGGERS"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Pink Sparkle Cowgirl"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "I AM HOMOPHOBIC"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "You've been Loved by Christ"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #26",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/26.png",
-    "imageHash": "953ba8c29c9f36d5306f0bce62d1be6093b099563696464d061d32265ffb30ba",
-    "edition": 26,
-    "date": 1711586174161,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Holographic Beverly HIlls"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
         "value": "Sad McChibi"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lil Smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Priest"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Large Amounts of Money"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Wownero Mutant"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #27",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/27.png",
-    "imageHash": "985a3df94d2d41bbc3ab56d6079b3a61aa9cef154e1c4c936fd29365d66e7982",
-    "edition": 27,
-    "date": 1711586174568,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Asian Temple"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "closed 2"
       },
       {
         "trait_type": "Mouth",
@@ -1522,183 +276,6 @@
       },
       {
         "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Tank"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Green Milady Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Mutant Octopus"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "This Holy SON OF A VIRGIN"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #28",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/28.png",
-    "imageHash": "d5242f4f4c20ebf821cbb52512995dd83fda4dc084815bc2d4dd4387b5771917",
-    "edition": 28,
-    "date": 1711586175127,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "pastel ipad desktop"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Neon Amoebas"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "GRILLZ"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Miya Metal Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Mutant Octopus"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Master Chief Cigar"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Golden Handgun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Kekistani Flag"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "YOu SO Wanna Be Gangsta Like US"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #29",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/29.png",
-    "imageHash": "8c682fcef5cd4c065a7bb65a332f4bcddd819633b1f7717c7f66f783a36232c5",
-    "edition": 29,
-    "date": 1711586175545,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Jean Mors Drumset"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril Purple"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Smile eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Dark Green Miya Jogger with Neon Trim"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Green"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Runescape Login"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "How Much I ACTUALLY love you"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #30",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/30.png",
-    "imageHash": "d6498b324354b2f7847a75248b0522a665dc7a1bd3979d7f14d4f2ac8389aabc",
-    "edition": 30,
-    "date": 1711586175977,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "If you love me why did you leave"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Raised Brow"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
-      },
-      {
-        "trait_type": "Nose",
         "value": "Nose 1"
       },
       {
@@ -1707,1465 +284,7 @@
       },
       {
         "trait_type": "Hair",
-        "value": "Purple Lady with Spiked Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun with Cyborg Hand"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Kekistani Flag"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Computer Love"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #31",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/31.png",
-    "imageHash": "b28c82532318945e7d350c888a28dc6cea116d3b2684abe7ddc403d61e5be069",
-    "edition": 31,
-    "date": 1711586176343,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Glitch Polygon Distortion"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heart Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Miya Sweater"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Peach Neon"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Golden Handgun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Satoshi Dice"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "YOu SO Wanna Be Gangsta Like US"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #32",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/32.png",
-    "imageHash": "e9446f04c87bee47ce3bc991270019f08283a83528418de3015efa4acf270c22",
-    "edition": 32,
-    "date": 1711586176683,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Hemi Sync"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Smile eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Big smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Red Baggy Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Purple Lady with Spiked Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Gasmask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "MiyaMaker Pro"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Calvin Piss"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #33",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/33.png",
-    "imageHash": "f9d3c9941367fad33d94dd7f5183adb2d7942f0ed2fd6bd37f83dee45098b990",
-    "edition": 33,
-    "date": 1711586177112,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Ornate Palace"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "srs"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Priest"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Purple M-shape Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Laughs in Goth"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #34",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/34.png",
-    "imageHash": "08c5741bf09318f9311b32b342b64f838b84c1d9139616c933984e4a368a36e4",
-    "edition": 34,
-    "date": 1711586177639,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "MiyaUniverse"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "closed 2"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Norse Blonde hair with Princess Braids"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Purple"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Kunty Karen"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #35",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/35.png",
-    "imageHash": "a3343bc4a0391a0259fec46dafbbd33b9c86ef2821812ae3f53896fc09fe24a9",
-    "edition": 35,
-    "date": 1711586178054,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Texas Instrument Tracker"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Sad McChibi"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lil Smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Intergalactic Star Dress"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Blue Teal tied up with long bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Norse Blonde hair with Princess Braids"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "have you hugged an emo kid today"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Blah Blah Blah"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #36",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/36.png",
-    "imageHash": "96342f2ce374f7f9d594ba2a5a3a15e2d26cb1bbd10deb75b13b4c204d47d2fe",
-    "edition": 36,
-    "date": 1711586178483,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Portland Riverfront"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "SHOCKED"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "cigarette"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Teal Messy Center part with Skull Bows"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Pastel Green Emo Swoop"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Pink Sparkle Cowgirl"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Kpop Hand with Green Nails and Milady Tattoo"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Veilgazer ERC20"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Ganesh Swastika"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #37",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/37.png",
-    "imageHash": "71bb1e05bc87b036b51e171a200ab3791346f7dd284aae08b6138aa8a7385bd9",
-    "edition": 37,
-    "date": 1711586178918,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Cows in Old Ruins"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Alien"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Wrinkled Dark Grey Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "OG Miya Brown"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Gasmask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "NO IMAGINATION NO BALLS"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Blue"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Grab em by the Pussy In Bio"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #38",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/38.png",
-    "imageHash": "db2e3da0f22fec9cde9435637775dc997177f7c56e3d1735b7f06e7aebe6d413",
-    "edition": 38,
-    "date": 1711586179373,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Salvation Army Grafiti 01"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Embroidered Miya Baseball Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Anime Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Laser Eyes Purple"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #39",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/39.png",
-    "imageHash": "de2cdba23699d208122070edb75d434318fc78af219553dd260f61bfda0f36b0",
-    "edition": 39,
-    "date": 1711586179931,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Dark Angel Portal"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril BlueGreen"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Half Open Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Preppy Milady Top"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Purple M-shape Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "I LOVE YOU"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #40",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/40.png",
-    "imageHash": "b17ecb4d47fd6eb0bbe4bae68e55b1ea0ce027034f1e8a88646ff6f01b52a8a5",
-    "edition": 40,
-    "date": 1711586180369,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Meta Planet"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "White Milady Dress with Pink Bow"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "BartMoney"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #41",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/41.png",
-    "imageHash": "1c63e71d8a213e77da7c949dacf873864231ac67e8a5dc48a43fc1c6a9ea22ca",
-    "edition": 41,
-    "date": 1711586180935,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Art Center Faculty"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed Pleased"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Priest"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Brown Curly"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "John Maus Pitiless Censors"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Born to RAD"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #42",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/42.png",
-    "imageHash": "7f46e90b608c5734b52afff7089dacb6f04cb28bf1e4e054d0c1981faed7bd57",
-    "edition": 42,
-    "date": 1711586181417,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Aquarium Glitch"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mildly grumpy"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Pastel Green Emo Swoop"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde spiked Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Berachain Beanie"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Purple"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Stainless Steel Handgun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "100 PERCENT CRAZY"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Laughs in Goth"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #43",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/43.png",
-    "imageHash": "a361efe6aa018200d3fd04a064fe4739dee9163b8fdbae7cae0d28e6e3d05894",
-    "edition": 43,
-    "date": 1711586181859,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "La Brea Ramen Milady Tagger"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue Alien"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Feline Eyes Yellow"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Black Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Ripped Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Brown Wavy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miyamaker Logo"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #44",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/44.png",
-    "imageHash": "06e955788c700a03a63415f4be1758641e85357d32ea0f3ea2162975c116b0cc",
-    "edition": 44,
-    "date": 1711586182225,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Runescape Map"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "SHOCKED"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Tank"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Curls"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Crown Chakra Download Green"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Grab em by the Pussy In Bio"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Grab em by the Pussy In Bio"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #45",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/45.png",
-    "imageHash": "db44b57e1c8e96d4df4c6fc7ddc9e350b6d546554e7bdbdd02cc86094810cb69",
-    "edition": 45,
-    "date": 1711586182568,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Tokyo B&W"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Neon Jesus Glitch"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Cyber Gladiator Pink"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Blue Teal tied up with long bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brown Long Wavy"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "MFiya Doom"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Machine Gun"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Stainless Steel Handgun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Computer Love"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "The Hanging In there Shiro Star"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #46",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/46.png",
-    "imageHash": "65784f0c3d3c4c1a193e0b3378b3c9cdc59b1eb4be95b0f73ff1996144017833",
-    "edition": 46,
-    "date": 1711586183090,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Safe as Milk"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "High Collar Winter Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Brown"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Fact Checked"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Runescape Login"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #47",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/47.png",
-    "imageHash": "ac9483caca9b4eb2e1b2460b72c84b8628dd307796b2a9259a8354ce1c578a5b",
-    "edition": 47,
-    "date": 1711586183658,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Inside Salvation Mountain"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Feline Eyes Yellow"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Miya Metal Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Blue Neon"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Silk Road Logo"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #48",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/48.png",
-    "imageHash": "a532fcdc17ee2a7a52c807e79d65d2ce3e6a5dc4dd4579492a5023ca7d3bd8e8",
-    "edition": 48,
-    "date": 1711586184147,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Texas Instrument Tracker"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Holographic Internal Thrash"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Cyborg and Reptilian"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "MEssy Green Braids"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Skull Mask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Cyborg Cat Ears"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "The Hanging In there Shiro Star"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #49",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/49.png",
-    "imageHash": "ebb47c5636fd172198391faeed69ef22aa0de38527e0e2ae0d2bac8c84cb68e5",
-    "edition": 49,
-    "date": 1711586184598,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Databent Jpeg Glitch"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Brown Hearts"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Vampire"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Bubblegum Bomber Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Mermaid Bun"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Alien demon skull hat"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Hac"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #50",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/50.png",
-    "imageHash": "fae9d56c67596c3c3aff4022b2b359bfdb82126e63fc1458e4937f544b3e0811",
-    "edition": 50,
-    "date": 1711586185142,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Q-Web Holographic"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Monochromatic Question Mark"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Floral Western Top"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Blonde choppy cut"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Dreadlocks with Green Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Runescape Demon"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #51",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/51.png",
-    "imageHash": "1a5747dde7c5ad678b1431a5bf1b2c9ba522267a322ce2189cffec9439d9c3c6",
-    "edition": 51,
-    "date": 1711586185527,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yosemite"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Accelerated Silver"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "squinted"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Christs Cyber Army"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Blue"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Golden Axe"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Laughs in Goth"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #52",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/52.png",
-    "imageHash": "25c4de0e0e1e89a3cbfd1aa410f62fbe9ddc9ad485e13f7a9875123cdfe6e1ea",
-    "edition": 52,
-    "date": 1711586185906,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Salvation Army Grafiti 01"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heavy Metal Clown"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Big smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Bubblegum Bomber Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Master Chief Holding Money"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Classy Solana Coins"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Trump Higher"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #53",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/53.png",
-    "imageHash": "445f319f0c52133cdb932378c20808bffe16db2f9b0a9e6d4280176a064cca68",
-    "edition": 53,
-    "date": 1711586186303,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "I love you Binglee"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "80's Monochrome Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Pastel Squiggel Blonde"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Pastel Green Emo Swoop"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "KOOLSKULL LOGO"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Master Chief Holding Money"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Runescape Login"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #54",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/54.png",
-    "imageHash": "1f0d6fa76d6e1c9bf099f3b129e6e2e26f26080a464959a368454a6c11f9123f",
-    "edition": 54,
-    "date": 1711586186740,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Miya OS Desktop"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue Alien"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Monochromatic Question Mark"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Black Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Cyber Gladiator Pink"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Brown Wavy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Curls"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Red"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #55",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/55.png",
-    "imageHash": "c5d5aa1f9f225262bee6e899bd6b32fc537c50b61c35f5cad5de1863d026793a",
-    "edition": 55,
-    "date": 1711586187192,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Alien Spaceship"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "srs"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Miya Sweater"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Needle Gun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Born to RAD"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Terrorism Shennanigans"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #56",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/56.png",
-    "imageHash": "55b4eb15855131ce02b6648c726745b4fa45f5d9a39e5fd30f215d3e64912fd5",
-    "edition": 56,
-    "date": 1711586187670,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Radcat Ghostrider with Skull Bus"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril BlueGreen"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "closed 2"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Red Baggy Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Pigtails"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Dreadlocks with Green Bangs"
+        "value": "Faded Brown Spikey Short"
       },
       {
         "trait_type": "Mask",
@@ -3173,66 +292,7 @@
       },
       {
         "trait_type": "Hat",
-        "value": "Alien demon skull hat"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "P0nch0mon"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Your Opinion in the trash"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #57",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/57.png",
-    "imageHash": "50ef2b82b66393e72a72f0ad88c7c17fee6f6e35a23a567e51998bf985425e3e",
-    "edition": 57,
-    "date": 1711586188127,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Reaper DAW"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heart Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "SHOCKED"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Orange Print Trenchcoat"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob 21e8 Glitch Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Cyborg Cat Ears"
+        "value": "Lawbster"
       },
       {
         "trait_type": "Right Arm",
@@ -3240,89 +300,34 @@
       },
       {
         "trait_type": "Overlay",
-        "value": "Thug That Shit Out Remilia"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Runescape Demon"
+        "value": "Computer Love"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #58",
+    "name": "Miyamaker #6",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/58.png",
-    "imageHash": "4acb921debc0ec875ea67587f212f7f4514a78b53c242989063f532ffbd16de5",
-    "edition": 58,
-    "date": 1711586188550,
+    "image": "ipfs://NewUriToReplace/6.png",
+    "imageHash": "745f98850d9ec81066bd1c1b2fdc583f632f62ccf50bbed7499a0cbb14ba1e0c",
+    "edition": 6,
+    "date": 1711655857758,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "HEA Head Heaven"
+        "value": "Light Angel Portal"
       },
       {
         "trait_type": "Body",
-        "value": "Holographic Internal Thrash"
+        "value": "Psychedelic Purple"
       },
       {
         "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
+        "value": "Squinted Bushy Brows"
       },
       {
         "trait_type": "Mouth",
-        "value": "Light pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Wrinkled Dark Grey Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Dreadlocks with Green Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Laser Eyes Purple"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #59",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/59.png",
-    "imageHash": "e084a5abc290bc740940143911fbbbbf1960219025284e9678276c40339b3fb7",
-    "edition": 59,
-    "date": 1711586189069,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Remco Tuners Parking Lot"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed Pleased"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
+        "value": "Lighter pink lipstick"
       },
       {
         "trait_type": "Nose",
@@ -3334,34 +339,77 @@
       },
       {
         "trait_type": "Hair",
-        "value": "Purple Lady with Spiked Bangs"
+        "value": "Chinese Royalty"
       },
       {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
+        "trait_type": "Overlay 2",
+        "value": "This Holy SON OF A VIRGIN"
       },
       {
-        "trait_type": "Mask",
-        "value": "Skull Mask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miya Ranger"
+        "trait_type": "Overlay 3",
+        "value": "Laser Eyes Purple"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #60",
+    "name": "Miyamaker #7",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/60.png",
-    "imageHash": "e051fcc44723ae4015a94a0fa9488c6f58dab8670746140d2d1d709498806c2f",
-    "edition": 60,
-    "date": 1711586189535,
+    "image": "ipfs://NewUriToReplace/7.png",
+    "imageHash": "7c586e3de998c03e74bafd3865e5430c1cf3b34271bde430626e6b9a1d63b69a",
+    "edition": 7,
+    "date": 1711655858106,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Holographic Beverly HIlls"
+        "value": "Texas Instrument Tracker"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hyper-dimensional eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Reptil fangz"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Space Communist"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Asymmetrical impossible Cornrows"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Gasmask"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "MFW Proven False on CNN"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #8",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "imageHash": "696d8020dfdb5c144bf903f579588195027eeb47b89283b4422f472c6105fed5",
+    "edition": 8,
+    "date": 1711655858463,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyborg Sister and ascended sisters"
       },
       {
         "trait_type": "Body",
@@ -3369,11 +417,11 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
+        "value": "Squinted Bushy Brows"
       },
       {
         "trait_type": "Mouth",
-        "value": "Mutant Gums"
+        "value": "Lil Smile"
       },
       {
         "trait_type": "Nose",
@@ -3381,62 +429,187 @@
       },
       {
         "trait_type": "Top",
-        "value": "Miya Metal Shirt"
+        "value": "Green Jogger with Lavendar Trim"
       },
       {
         "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Glitch 1"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bob"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "MIYA GOLD MOGGERS"
+        "value": "Radbro Cut Neon Glitch"
       },
       {
         "trait_type": "Hat",
-        "value": "Aztec Warrior"
+        "value": "Trump Is My Nigga"
       },
       {
-        "trait_type": "Left Arm",
-        "value": "Green Gameb0y Color"
+        "trait_type": "Overlay",
+        "value": "Blah Blah Blah"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #9",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "imageHash": "913cb07ffc5e49602d9559c3d01ca6b776bb6e34ba9e46b338e52fd7148082de",
+    "edition": 9,
+    "date": 1711655858824,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink sky in Baldwin Hills"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Neon Jesus Glitch"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed 2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Melting Fang Toothed"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Shiny Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Neopolitan Hand Sewn Tee"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black Pigtails"
       },
       {
         "trait_type": "Right Arm",
         "value": "Stainless Steel Handgun"
       },
       {
-        "trait_type": "Overlay",
-        "value": "Kunty Karen"
-      },
-      {
         "trait_type": "Overlay 2",
-        "value": "There Is No Exit Pump Nigga"
+        "value": "Retardio Cigarettes"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #61",
+    "name": "Miyamaker #10",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/61.png",
-    "imageHash": "3e79dce711d5d7dc3dd09fa92161c6f91f7eac9d3608d8766de9acba04434128",
-    "edition": 61,
-    "date": 1711586190116,
+    "image": "ipfs://NewUriToReplace/10.png",
+    "imageHash": "20be87c6be0ce9d9b29e27025e0692a2350456f87897afca9417c2b98871552a",
+    "edition": 10,
+    "date": 1711655859175,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "La Brea Ramen Milady Tagger"
+        "value": "NEVER GOON"
       },
       {
         "trait_type": "Body",
-        "value": "Ascended Vril Purple"
+        "value": "Mexican"
       },
       {
         "trait_type": "Eyes",
-        "value": "Heart Eyes"
+        "value": "Green Raised Brow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile 1"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Christs Cyber Army"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short Brown Wavy"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Lawbster"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Born to RAD"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Calvin Piss"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #11",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "imageHash": "95f20a83c8baf1f545a997dd593ad971176dc7d7f3bff9afe7ca2f534c8e891d",
+    "edition": 11,
+    "date": 1711655859602,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Satoshi Dice"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light Tone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Mutant Gums"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Priest"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "MEssy Green Braids"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Wikileaks"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Laughs in Goth"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #12",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "imageHash": "5ac9c77f719a7fc04968862d4764612e7b2b3d61b4328fe76a9a0269c5f5de33",
+    "edition": 12,
+    "date": 1711655860037,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blackface Trudeau"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Psychedelic Purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown Surprised"
       },
       {
         "trait_type": "Mouth",
@@ -3448,42 +621,187 @@
       },
       {
         "trait_type": "Top",
-        "value": "Western Jean Sleeveless"
+        "value": "Overalls"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pastel Squiggel Blonde"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Open-source Software Extremist"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Golden Machine Gun with Cyborg Hand"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Samurai Sword with Blood"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Lightcode Glitch 00"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Milady SOldier"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #13",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "imageHash": "4f3e07b24ea45cc57599853e6fee25be9d9072ae1045ca21b6a00aa7bee07363",
+    "edition": 13,
+    "date": 1711655860406,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Neon Night"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink Heart Glimmer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "White Milady Dress with Pink Bow"
       },
       {
         "trait_type": "Hair",
         "value": "Purple Koolio Braids"
       },
       {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties Copy"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Bounty Hunter"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Purple"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "100 PERCENT CUTE"
+        "trait_type": "Right Arm",
+        "value": "Wielding Electricity"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #62",
+    "name": "Miyamaker #14",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/62.png",
-    "imageHash": "b9aa0c2335978149cb84a7db74aa62d609510dae2dd33ca47367731a578e0006",
-    "edition": 62,
-    "date": 1711586190593,
+    "image": "ipfs://NewUriToReplace/14.png",
+    "imageHash": "6295c0d3ef33215681067aeac0e47fb9f600a889cd582a369aea770a6df7672d",
+    "edition": 14,
+    "date": 1711655860773,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "I love you Binglee"
+        "value": "CPS Sells Kids"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light Tone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Feline Eyes Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile 1"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Ripped Shirt"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Red side cut bangs"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Master Chief Holding Money"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Barron Trump Naruto AMV"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Your Opinion in the trash"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #15",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "imageHash": "b477bf1291c3977f0b04d7ea11d6b8e164bbd8d66ae319ba3099f595eb02f4e0",
+    "edition": 15,
+    "date": 1711655861014,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tokyo B&W"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Aweee"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lighter pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Floral Dress with Bee"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "OG Miya Brown"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Golden Handgun"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Classy Solana Coins"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #16",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "imageHash": "1a1829ce90db934c7e71e3cb246b48adabb97f3d88c2272d2aefedd3ffee93ed",
+    "edition": 16,
+    "date": 1711655861391,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Safe as Milk"
       },
       {
         "trait_type": "Body",
@@ -3491,11 +809,274 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Half Open Eyes"
+        "value": "Green Raised Brow"
       },
       {
         "trait_type": "Mouth",
-        "value": "smirk"
+        "value": "Light pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Pink Preppy Milady Top"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "MEssy Green Braids"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "MFiya Doom"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Miyamaker Logo"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Lightsaber Red"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Blood Splatter"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "BartMoney"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #17",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "imageHash": "0768973e0f1d10b0f4670662f0a693b711b7990d3d39e15d119f77d8100e2df3",
+    "edition": 17,
+    "date": 1711655861784,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Psykos Yung Lean"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad McChibi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Blue Printed Winter Coat"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pastel Squiggel Blue"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "MIYA GOLD MOGGERS"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "They Think im Dora the way my Bag Talk"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Kekistani Flag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #18",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "imageHash": "250095685c1ddb76f61cdbc906b8d1bb6ff43b29daaf6fc6fff751a0b890c560",
+    "edition": 18,
+    "date": 1711655862190,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ornate Palace"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Neon Jesus Glitch"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "closed 2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cigarette"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Floral Western Top"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black Straight"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Cake Slice"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "I AM HOMOPHOBIC"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #19",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "imageHash": "e09d41076bd67c1bfbce0fd702fb7e825fcf1dfad924577f5c642e6df512c87d",
+    "edition": 19,
+    "date": 1711655862586,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Safe as Milk"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Hangry"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hangry"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Cyber Gladiator Pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Blonde choppy cut"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Mutant Octopus"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Thug That Shit Out Remilia"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Runescape Demon"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #20",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "imageHash": "0da4e4ca6bd8199090cf3a32e01d2ebb39378352ea755cfbaf4b9f6a5cd127ec",
+    "edition": 20,
+    "date": 1711655862924,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Glitch Polygon Distortion"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mexican"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile 1"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Bubblegum Bomber Jacket"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Green Milady Bangs"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Dragon Princess Skull Crown"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Stainless Steel Handgun"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Veilgazer ERC20"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "I LOVE YOU"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #21",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "imageHash": "a4056be5bd1b7c2f56d70828e9318f87b7d08d9c690763fee7ec68f31cc0bf61",
+    "edition": 21,
+    "date": 1711655863313,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ComicStudio Glitch"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Neon Accelerated"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad McChibi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "mildly grumpy"
       },
       {
         "trait_type": "Nose",
@@ -3503,42 +1084,611 @@
       },
       {
         "trait_type": "Top",
-        "value": "Leather Jacket"
+        "value": "Cyber Gladiator Pink"
       },
       {
         "trait_type": "Hair",
-        "value": "Green Milady Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bob"
+        "value": "Black Straight"
       },
       {
         "trait_type": "Hat",
-        "value": "Please Be Patient with me im soooooooooo"
+        "value": "Period Bomb TV"
       },
       {
-        "trait_type": "Left Arm",
-        "value": "Machine Gun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Your Opinion in the trash"
+        "trait_type": "Overlay 2",
+        "value": "Dredd Pirate Roberts"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #63",
+    "name": "Miyamaker #22",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/63.png",
-    "imageHash": "ecd3730dd5e98dc6bda0fa1fb7f4542a70558b2c556cc16373df5e4d546fefd6",
-    "edition": 63,
-    "date": 1711586191013,
+    "image": "ipfs://NewUriToReplace/22.png",
+    "imageHash": "016b5776e105cfdb0a353317ee8f0088ac3b3c2561b806162d79a6996d6fe480",
+    "edition": 22,
+    "date": 1711655863701,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Pink and Green Error"
+        "value": "Y2K Browser"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Mexican"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Pink Heart Glimmer"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Shiny Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Lavender Floral Quincenera Dress"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light Blue Braided"
+      },
+      {
+        "trait_type": "Mask",
+        "value": "Golden Silver Oni Mask"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Period Bomb TV"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Lightsaber Red"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Veilgazer ERC20"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "have you hugged an emo kid today"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #23",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "imageHash": "c74bd5de3ecb5577336e9e7664e5ae504c31f16c9dd65f05f943c59d78467793",
+    "edition": 23,
+    "date": 1711655864084,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Crashing Waves"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monochromatic Question Mark"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Hangry Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Overalls"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Purple M-shape Bangs"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Princess Protection Cow Cap"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Trump Higher"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "YOu SO Wanna Be Gangsta Like US"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "You Broke The CYcle"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #24",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "imageHash": "dcbbb9f6b085b81492d89547ca1759103effe1c71809944172c7588004f37e51",
+    "edition": 24,
+    "date": 1711655864507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "I love you Binglee"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Light Tone"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad McChibi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lighter pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Shiny Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "McChibi Pink Shirt"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pastel Squiggel Pink"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Wielding Electricity"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Laughs in Goth"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #25",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "imageHash": "c083b8e21ec18f8211392642b955a644ee5fc937cd2ecb5cbe852f83091fcc0d",
+    "edition": 25,
+    "date": 1711655864853,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Databent Glitch Landscape"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heart Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lil Smile"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Dark Green Miya Jogger with Neon Trim"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short Brown Wavy"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Lightsaber Purple"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Needle Gun"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #26",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "imageHash": "222d9c8090623b2ef73b23e0553d6805c27c8219737347fd40ac35d216abdf86",
+    "edition": 26,
+    "date": 1711655865142,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Neon Night"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Glitch Aura"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Neopolitan Hand Sewn Tee"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short Brown Side Part"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Remilia Corp Cap"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "There Is No Exit Pump Nigga"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Laughs in Goth"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #27",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "imageHash": "f98c55ae3db1b177a3116b5a6b2505cb056486311014d0cd1a8ee211438feb56",
+    "edition": 27,
+    "date": 1711655865547,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "No Trespassing"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Feline Eyes Yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "srs"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Blue Bob"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Crown Chakra Download Green"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Golden Handgun"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Tamales"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "have you hugged an emo kid today"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #28",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "imageHash": "51c3528af9244e32ae02a8397bea7e9ea55a3691176f5e1493f087b6148f3a88",
+    "edition": 28,
+    "date": 1711655865982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Selfie Glitch"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sad McChibi"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smirk"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Purple Puffy Jacket"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Black Straight"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Samurai Sword with Blood"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Samurai Sword with Blood"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "YOu SO Wanna Be Gangsta Like US"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "have you hugged an emo kid today"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #29",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "imageHash": "44ae027ee5113c65ca6873071b49340868d528d68c2a1a803f5af0f6bff7c0f1",
+    "edition": 29,
+    "date": 1711655866408,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Meditating on the Healing Web by DSMP - deepstatemappingproject<dot>com"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ascended Vril BlueGreen"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "squinted"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Floral Western Top"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "OG Miya Brown"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Green Gameb0y Color"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Golden Dagger"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Tamales"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #30",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "imageHash": "907baca94d2e9157d7337027f0cf6abee8fe96119829828230f1f0d39c6f7d8b",
+    "edition": 30,
+    "date": 1711655866792,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Welcome to MSN"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Rainbow Noise Swirls"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lighter pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Bubblegum Bomber Jacket"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Radbro Cut"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Berachain Cap"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Blood Splatter"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "They Think im Dora the way my Bag Talk"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Dredd Pirate Roberts"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #31",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "imageHash": "63315e81efe56920410efb29e761f446e882430c580f594c9a0ea0d8a4c85492",
+    "edition": 31,
+    "date": 1711655867121,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Corona Virus Stan"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Warrior for Christ"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lighter pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Cyber Gladiator Pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Spiky Bangs M Cut Green"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Mutant Octopus"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Fact Checked"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Keep it Trashy"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #32",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "imageHash": "8e71233bc917f1459090f700b270638dc28ff12b084775695b92e378d4b1cdcf",
+    "edition": 32,
+    "date": 1711655867673,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Japanese Goddess"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Schizoposter Glitch Aura"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Smile eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Lighter pink lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Shiny Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Western Jean Sleeveless"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Short Bob Pink Corrupted Glitch"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Runescape Login"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Lightcode Glitch 07"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "Veilgazer ERC20"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #33",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "imageHash": "71065b86151b88a785b28d0cf4b1f4ad2e72365cce28b8370e4697aab5099bd1",
+    "edition": 33,
+    "date": 1711655868026,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Radcat Ghostrider with Skull Bus"
       },
       {
         "trait_type": "Body",
@@ -3558,50 +1708,81 @@
       },
       {
         "trait_type": "Top",
-        "value": "Green Jogger with Lavendar Trim"
+        "value": "Dark Green Miya Jogger with Neon Trim"
       },
       {
         "trait_type": "Hair",
-        "value": "Short Bob Light Blonde"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blonde Crazy Ties"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Thrash44 Skull"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun"
+        "value": "Short Bob Blue"
       },
       {
         "trait_type": "Overlay 2",
-        "value": "Ancient Swastika Throne"
+        "value": "Retardio Cigarettes"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #64",
+    "name": "Miyamaker #34",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/64.png",
-    "imageHash": "7ab121521c332e8409881fbd92e614342de4d9dc5ca475ef111b173a9ab7e49b",
-    "edition": 64,
-    "date": 1711586191502,
+    "image": "ipfs://NewUriToReplace/34.png",
+    "imageHash": "0f18ff650ee5bf359b2aaf302a0bd7fb77fda7f5202e4d7d2a9d61479c5eb9a5",
+    "edition": 34,
+    "date": 1711655868444,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Salvation Army Grafiti 02"
+        "value": "Vapor Train"
       },
       {
         "trait_type": "Body",
-        "value": "Mexican"
+        "value": "Venom Glitché"
       },
       {
         "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
+        "value": "Smile eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Nose 1"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Lavender Floral Quincenera Dress"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Mermaid Bun"
+      },
+      {
+        "trait_type": "Left Arm",
+        "value": "Green Gameb0y Color"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #35",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "imageHash": "71f137050f42b0756c9eb62e77e150c43fa3cf1c04f44e562568298de4d6f1f8",
+    "edition": 35,
+    "date": 1711655868774,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cybercity"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Tan"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Monochromatic Question Mark"
       },
       {
         "trait_type": "Mouth",
@@ -3613,530 +1794,19 @@
       },
       {
         "trait_type": "Top",
-        "value": "Purple Puffy Jacket"
+        "value": "Red Baggy Tee"
       },
       {
         "trait_type": "Hair",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "MFiya Doom"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Jesus is King"
+        "value": "Blue Bob"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Machine Gun"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #65",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/65.png",
-    "imageHash": "ad9886cca52fcefe9b91ba7deb1c4d6b305623836069e1880415ae6eacc9a580",
-    "edition": 65,
-    "date": 1711586192039,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Satoshi Dice"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Half Open Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Black Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Floral Dress with Bee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Blue Teal tied up with long bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Miyamaker Logo"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Stainless Steel Handgun"
+        "value": "Lightsaber Green"
       },
       {
         "trait_type": "Overlay",
-        "value": "Kekistani Flag"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #66",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/66.png",
-    "imageHash": "262f95ca01e3c1a9ab9b33b3992cb8930e1bcf601206852251f808c5112c86e4",
-    "edition": 66,
-    "date": 1711586192450,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Neon Night"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heart Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "McChibi Pink Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Messy Short"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Computer Love"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "You've been Loved by Christ"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #67",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/67.png",
-    "imageHash": "a08c134517ffe5003e2e15d403ec6b39e7e2c15099b6c14efe8606ff0c859294",
-    "edition": 67,
-    "date": 1711586192979,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Geisha Sisters"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril BlueGreen"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Sad McChibi"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "srs"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Miya Tagged Bomber Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Radbro Cut Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Brain Drain Machine"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "MFW Proven False on CNN"
-      },
-      {
-        "trait_type": "Overlay 2",
         "value": "I LOVE YOU"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #68",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/68.png",
-    "imageHash": "788ba74471a95ed9580725e52633549342eafad763690893ff0a6a781edaa72a",
-    "edition": 68,
-    "date": 1711586193423,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Crashing Waves"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Aweee"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "cigarette"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Embroidered Miya Baseball Tee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Dyed Red Short"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Sparkley Heart Glasses Purple"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Barron Trump Naruto AMV"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #69",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/69.png",
-    "imageHash": "f07172cc2d81dae1684ce9fd142e4112680f6693f533d953ac857f8ecafa60f2",
-    "edition": 69,
-    "date": 1711586194056,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Radbro Denver Arson"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini smirk"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Tank"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Black"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "OG Miya Brown"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Spy Shades"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Christ's Love"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #70",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/70.png",
-    "imageHash": "7ccac3f687101d451f2eaea4338ba66a583e808753c2ec09a9714ce12067beff",
-    "edition": 70,
-    "date": 1711586194487,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Trailer and Farmhouse"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "squinted"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "GRILLZ"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Bubblegum Bomber Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Mowhawk"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Sparkley Heart Glasses Purple"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Terrorism Shennanigans"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #71",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/71.png",
-    "imageHash": "0e40aedecfa79ec92679c08db6528d41ac2a94e69fa43f6478d11c1fd03741f0",
-    "edition": 71,
-    "date": 1711586195042,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Angelic"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Faded Wavy Glitch"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Wrinkled Dark Grey Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Messy Short"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Open-source Software Extremist"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Calvin Piss"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Floyd cartoon"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #72",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/72.png",
-    "imageHash": "5b3a490454c78d596e383d82e2c80617d559c5e51ddeab725fa5696b3d7f267e",
-    "edition": 72,
-    "date": 1711586195548,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Rad Warzone"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Unhappy Frown"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Space Communist"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Brown Wavy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brown Long Wavy"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Heart Skull Digital Vision Mask"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Chinese Royalty"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Reptile Hand with Eye Palm"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Lightcode Glitch 06"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #73",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/73.png",
-    "imageHash": "32e6d1f219fbb5ffdc074856610af5d7013d6ec86acad5a52488562c57c0d748",
-    "edition": 73,
-    "date": 1711586196185,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Selfie Glitch"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Venom Glitché"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Hyper-dimensional eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Vampire"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Floral Dress with Bee"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Black Tie Up with Braids"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Please Be Patient with me im soooooooooo"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Golden Handgun"
       },
       {
         "trait_type": "Overlay 2",
@@ -4146,83 +1816,24 @@
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #74",
+    "name": "Miyamaker #36",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/74.png",
-    "imageHash": "7e7d3734263b6697fc8ef4dc220173b373b10ff6886afdc069c6c9f87ad7c9ae",
-    "edition": 74,
-    "date": 1711586196641,
+    "image": "ipfs://NewUriToReplace/36.png",
+    "imageHash": "ba08c4247a1a17417d23158de232e6eba07e65c120bc2d12706470cf102ee347",
+    "edition": 36,
+    "date": 1711655869118,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Hemi Sync"
+        "value": "Beeftrix"
       },
       {
         "trait_type": "Body",
-        "value": "Tan"
+        "value": "Glitch Aura 4"
       },
       {
         "trait_type": "Eyes",
-        "value": "Symbiote Slime"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Big smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Green Robe"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Mowhawk"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Lightsaber Blue"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Reaper DAW Scythe"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "100 PERCENT CUTE"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #75",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/75.png",
-    "imageHash": "a25ab2b2db7fe69f727a9e2832f93a9214f4d4d11d97862922eab86a729f18bb",
-    "edition": 75,
-    "date": 1711586197104,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Old World Construction"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Blue Alien"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Cyborg and Reptilian"
+        "value": "Smile eyes"
       },
       {
         "trait_type": "Mouth",
@@ -4230,148 +1841,46 @@
       },
       {
         "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Bubblegum Bomber Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Green Milady Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #76",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/76.png",
-    "imageHash": "cbfa57cf7ea4be49dff43849f295cb4276a05f1ab763b7f85bc0ef309e8eee94",
-    "edition": 76,
-    "date": 1711586197578,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "I love you Binglee"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Dark"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Alien"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Red Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Hangry Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Sailor MXXN"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Lightcode Glitch 00"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #77",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/77.png",
-    "imageHash": "72bac1cfcdfca594ba34aa9a42a3fa19838216e3160eeee1bfd55c73235f8338",
-    "edition": 77,
-    "date": 1711586198118,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Texas Instrument Tracker"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "closed 2"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "mini frown"
-      },
-      {
-        "trait_type": "Nose",
         "value": "Nose 1"
       },
       {
         "trait_type": "Top",
-        "value": "Pink Tank"
+        "value": "Floral Western Top"
       },
       {
         "trait_type": "Hair",
-        "value": "Teal Anime Messy 1"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Cyberskull VR Headset"
+        "value": "Short Brown Wavy"
       },
       {
         "trait_type": "Hat",
-        "value": "Chinese Royalty"
+        "value": "Halo"
       },
       {
-        "trait_type": "Overlay",
-        "value": "There Is No Exit Pump Nigga"
+        "trait_type": "Left Arm",
+        "value": "Lightsaber Purple"
       },
       {
-        "trait_type": "Overlay 2",
-        "value": "Radcat"
+        "trait_type": "Right Arm",
+        "value": "Stainless Steel Handgun"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "How Much I ACTUALLY love you"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #78",
+    "name": "Miyamaker #37",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/78.png",
-    "imageHash": "6228eb02899c04fcb6ba2a6b7c59be923cf5b98abf61dec4b780673fa9ffe303",
-    "edition": 78,
-    "date": 1711586198497,
+    "image": "ipfs://NewUriToReplace/37.png",
+    "imageHash": "e5d7a7f372c8e32e0a6a609eb5fea385f3223cd9a2eb66e614a89f7d9fbe8d77",
+    "edition": 37,
+    "date": 1711655869494,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Holographic Beverly HIlls"
+        "value": "Japanese Goddess"
       },
       {
         "trait_type": "Body",
@@ -4379,46 +1888,54 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
+        "value": "squinted"
       },
       {
         "trait_type": "Mouth",
-        "value": "SHOCKED"
+        "value": "mini frown"
       },
       {
         "trait_type": "Nose",
-        "value": "Nose 1"
+        "value": "Hangry Blush"
       },
       {
         "trait_type": "Top",
-        "value": "Floral Dress with Bee"
+        "value": "Bubblegum Skull Army Spacesuit"
       },
       {
         "trait_type": "Hair",
-        "value": "Snazzy Lawyer"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Brown V Cut Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
+        "value": "Brown Curly"
       },
       {
         "trait_type": "Left Arm",
-        "value": "Lightsaber Green"
+        "value": "Golden Machine Gun with Cyborg Hand"
+      },
+      {
+        "trait_type": "Right Arm",
+        "value": "Golden Handgun"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Kekistani Flag"
+      },
+      {
+        "trait_type": "Overlay 2",
+        "value": "Ancient Swastika Throne"
+      },
+      {
+        "trait_type": "Overlay 3",
+        "value": "12311999 y2k Buy"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"
   },
   {
-    "name": "Miyamaker #79",
+    "name": "Miyamaker #38",
     "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/79.png",
-    "imageHash": "dc5ed84a41587b2f2f3bfdc8845e00518d49f12c684e187bcbb309f228a80407",
-    "edition": 79,
-    "date": 1711586198883,
+    "image": "ipfs://NewUriToReplace/38.png",
+    "imageHash": "4494fdede5832d7b6635cb9b40b7d9e3fdfe85f71baef829224a3c967c1a4789",
+    "edition": 38,
+    "date": 1711655869986,
     "attributes": [
       {
         "trait_type": "Background",
@@ -4430,290 +1947,7 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "Heart Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Black Lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Priest"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Wind Blown Long"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Large Amounts of Money"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #80",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/80.png",
-    "imageHash": "b94f5160650d484b4cd2310daf87819cfe96ee0e976faaa232809f24be1a4248",
-    "edition": 80,
-    "date": 1711586199277,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Chicago Fires"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Closed"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Miya Metal Shirt"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Bangs M Cut Green"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Spiky Brown"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "GLITCH 03 REEETARD"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Cute Acceleration Machine Gun"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #81",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/81.png",
-    "imageHash": "1619b0f4adcfcdac0df824c124fdcd3fb27be34f4e898df7417ff395c227886d",
-    "edition": 81,
-    "date": 1711586199724,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "HEA Head Heaven"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Hangry"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Blue Printed Winter Coat"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Anime Purple"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Cyborg Cat Ears"
-      },
-      {
-        "trait_type": "Right Arm",
-        "value": "Stainless Steel Handgun"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Lightcode Glitch 06"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "BartMoney"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #82",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/82.png",
-    "imageHash": "6d05946ca20a9c854b6173ffa48f1281e2911421e786005f8bd590dbaf89dad2",
-    "edition": 82,
-    "date": 1711586200154,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Alien Spaceship"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Mexican"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "cigarette"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Brown Wavy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "OG Miya Brown"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Oni Mouth"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Crown Chakra Download yellow"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Runescape Demon"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Su"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #83",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/83.png",
-    "imageHash": "e1aac7eddb30cf0e5db839fa89c556a5e2effb34c53f115037f0eef7457e5d3b",
-    "edition": 83,
-    "date": 1711586200633,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Cathedral"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril Purple"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Feline Eyes Yellow"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Bob Blue Neon"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "OG Miya Brown"
-      },
-      {
-        "trait_type": "Mask",
-        "value": "Sparkley Heart Glasses Blue"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "MiyaMaker Pro"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Golden Machine Gun with Cyborg Hand"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Vaxxx Nazi"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #84",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/84.png",
-    "imageHash": "d0e8b983de7e5a60588d130560132d928ab04dfb0c307be34af3564b13547c6e",
-    "edition": 84,
-    "date": 1711586200989,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Psykos Yung Lean"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Ascended Vril BlueGreen"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heart Eyes"
+        "value": "Brown Surprised"
       },
       {
         "trait_type": "Mouth",
@@ -4721,294 +1955,78 @@
       },
       {
         "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Miya Sweater"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Purple M-shape Bangs"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Brunette Long Straight"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Naval Officer"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #85",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/85.png",
-    "imageHash": "b9aaac44eaa3533cfd57b514cf511f8cef5917dbd8638c541e3f62989865edcc",
-    "edition": 85,
-    "date": 1711586201399,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Room with Georgia Okeefe print"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green Warrior for Christ"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lil Smile"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Dark Green Miya Jogger with Neon Trim"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Pastel Green Emo Swoop"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Starberry Beret"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "You've been Loved by Christ"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Lightcode Glitch 01"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #86",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/86.png",
-    "imageHash": "bdbe2d7b325fe66a77fd542b23dd83b4ddc85e6492975ce93fb0adce03e5299d",
-    "edition": 86,
-    "date": 1711586201894,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Log On And Win Forever"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Glitch Aura 4"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Pink Heart Glimmer"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Lighter pink lipstick"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Orange Print Trenchcoat"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Short Spiky Bangs Bluegreen"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Blue Bangs"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "A NEW WORLD"
-      },
-      {
-        "trait_type": "Left Arm",
-        "value": "Samurai Sword with Blood"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "Christ's Love"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #87",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/87.png",
-    "imageHash": "1733c55a6f0c4e3bfea66bb00ad6388e412aedf2102c79de2d6802f4425c720d",
-    "edition": 87,
-    "date": 1711586202303,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "MiyaMeme"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Light Tone"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Sad McChibi"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smirk"
-      },
-      {
-        "trait_type": "Nose",
         "value": "Shiny Blush"
       },
       {
         "trait_type": "Top",
-        "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+        "value": "Embroidered Miya Baseball Tee"
       },
       {
         "trait_type": "Hair",
-        "value": "Pink and Blue blend Bangs Copy"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Light Brown Choppy Bangs"
+        "value": "Black Straight Straight Bangs with Diamond Clip"
       },
       {
         "trait_type": "Hat",
-        "value": "Headturama"
-      },
-      {
-        "trait_type": "Overlay",
-        "value": "100 PERCENT CRAZY"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "Hac"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #88",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/88.png",
-    "imageHash": "d3ab9a2e2412bfce9703a78cc9dc1ab720e48a1c9c585786cbd9d2a196c232de",
-    "edition": 88,
-    "date": 1711586202680,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Hollywood Blvd"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Neon Jesus Glitch"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Smile eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "smile 1"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Nose 1"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Pink Milady Fluffy Cape"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Radbro Cut"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "Long Dreads"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
-      },
-      {
-        "trait_type": "Overlay 2",
-        "value": "cheatengine icon"
-      }
-    ],
-    "compiler": "HashLips Art Engine - NFTChef fork"
-  },
-  {
-    "name": "Miyamaker #89",
-    "description": "This is the description of your NFT project, remember to replace this",
-    "image": "ipfs://NewUriToReplace/89.png",
-    "imageHash": "ca36da187ee7a81d5e5634010a42a5f03df868ab38843ec175d2da3f3c5c6250",
-    "edition": 89,
-    "date": 1711586203097,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Satoshi Dice"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Tan"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Heart Eyes"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "srs"
-      },
-      {
-        "trait_type": "Nose",
-        "value": "Shiny Blush"
-      },
-      {
-        "trait_type": "Top",
-        "value": "Leather Jacket"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
-      },
-      {
-        "trait_type": "Hair Behind",
-        "value": "McChibi Sailor Braid Buns"
-      },
-      {
-        "trait_type": "Hat",
-        "value": "Aztec Warrior"
+        "value": "Christs Army Helmet"
       },
       {
         "trait_type": "Left Arm",
         "value": "Lightsaber Blue"
       },
       {
+        "trait_type": "Right Arm",
+        "value": "Middle Finger"
+      },
+      {
         "trait_type": "Overlay 2",
-        "value": "Veilgazer ERC20"
+        "value": "There Is No Exit Pump Nigga"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "name": "Miyamaker #39",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "imageHash": "bc12eae5bf61dd9354a426a24be557507914355637b43daf4c09694927476149",
+    "edition": 39,
+    "date": 1711655870337,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blossom"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Aztec Warrior"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Heavy Metal Clown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "smile 1"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Shiny Blush"
+      },
+      {
+        "trait_type": "Top",
+        "value": "Green Jogger with Lavendar Trim"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown Curly"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "Remilia Corp Cap"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Large Amounts of Money"
       }
     ],
     "compiler": "HashLips Art Engine - NFTChef fork"

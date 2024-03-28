@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #39",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/39.png",
+  "imageHash": "9421bfe21efeb3f33e9ed6f599558ff7664e094c5f1bcd0c77f56f173fdc6120",
+  "edition": 39,
+  "date": 1711655757832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meditating on the Healing Web by DSMP - deepstatemappingproject<dot>com"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hyper-dimensional eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mutant Gums"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Baggy Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Trump Is My Nigga"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Green"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

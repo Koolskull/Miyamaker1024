@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #6",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "imageHash": "6e2e438a360a9a02a7fad0e94709a0b0ecfcc6caacdb58e6f2c2dcad6f4d2b96",
+  "edition": 6,
+  "date": 1711655745244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Log On And Win Forever"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Teal tied up with long bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cake Slice"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Terry Webcam"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

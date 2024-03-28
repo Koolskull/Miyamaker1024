@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #20",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "imageHash": "1e3796d36c272350af42369e2db07f39175652573d3ec13fa5f7fe2fa3cb881c",
+  "edition": 20,
+  "date": 1711655750672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pissing on Addiction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril BlueGreen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg and Reptilian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Tank"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Pink Corrupted Glitch"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MFiya Doom"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Green"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Wikileaks"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Born to RAD"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

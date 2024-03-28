@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #18",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "imageHash": "15fa3517e7de5a6bfd7c8fc05ff3f14330f1093ba03597b524900b750196c88f",
+  "edition": 18,
+  "date": 1711655749885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Room with Georgia Okeefe print"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Raised Brow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Jogger with Lavendar Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Spiky Bangs Bluegreen"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "I AM HOMOPHOBIC"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Black Sun Milady"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

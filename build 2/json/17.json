@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #17",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "imageHash": "811ff5015f5dfac49aa32300707bd832a979bdc09177c5d2c9ae08c12144bdaf",
+  "edition": 17,
+  "date": 1711655749543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyborg Sister and ascended sisters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SHOCKED"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ripped Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple M-shape Bangs"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "John Maus Pitiless Censors"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Computer Love"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

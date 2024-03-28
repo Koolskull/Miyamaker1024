@@ -2,13 +2,13 @@
   "name": "Miyamaker #2",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/2.png",
-  "imageHash": "72c36870ff8ebaf8f0f612051ae6527b4c8586122fd386171654e073a2cfed74",
+  "imageHash": "1c47c645e3510eed53a8354fc20a92abaeedbc1f9b5ac8092496d6a88582df92",
   "edition": 2,
-  "date": 1711586163523,
+  "date": 1711655856096,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Alien Spaceship"
+      "value": "I dont want to marry for convenience"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Monochromatic Question Mark"
     },
     {
       "trait_type": "Mouth",
-      "value": "srs"
+      "value": "Hangry"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Space Communist"
+      "value": "Christs Cyber Army"
     },
     {
       "trait_type": "Hair",
-      "value": "Sailor MXXN"
+      "value": "McChibi Sailor Braid Buns"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Long Norse Blonde hair with Princess Braids"
+      "trait_type": "Mask",
+      "value": "Gasmask"
     },
     {
-      "trait_type": "Hat",
-      "value": "KOOLSKULL LOGO"
+      "trait_type": "Left Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Kpop Hand with Green Nails and Milady Tattoo"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Radcat"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "100 PERCENT CRAZY"
+      "value": "Holy Bible"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #15",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "imageHash": "1d466c1fa8a2b50324ff658d83880d75c78f61ec5924e5b70ec8302d9450e60a",
+  "edition": 15,
+  "date": 1711655748898,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Corona Virus Stan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Shaggy Short"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Oni Mouth"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Terrorism Shennanigans"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Barron Trump Naruto AMV"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Look at my Lawyer Dawg"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

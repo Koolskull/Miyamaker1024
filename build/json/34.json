@@ -2,25 +2,25 @@
   "name": "Miyamaker #34",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/34.png",
-  "imageHash": "08c5741bf09318f9311b32b342b64f838b84c1d9139616c933984e4a368a36e4",
+  "imageHash": "0f18ff650ee5bf359b2aaf302a0bd7fb77fda7f5202e4d7d2a9d61479c5eb9a5",
   "edition": 34,
-  "date": 1711586177639,
+  "date": 1711655868444,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "MiyaUniverse"
+      "value": "Vapor Train"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Venom Glitché"
     },
     {
       "trait_type": "Eyes",
-      "value": "closed 2"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,15 @@
     },
     {
       "trait_type": "Top",
-      "value": "Sailor MXXN"
+      "value": "Lavender Floral Quincenera Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Long Norse Blonde hair with Princess Braids"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Mermaid Bun"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Purple"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Kunty Karen"
+      "value": "Green Gameb0y Color"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

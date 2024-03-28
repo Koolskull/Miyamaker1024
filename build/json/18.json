@@ -2,25 +2,25 @@
   "name": "Miyamaker #18",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/18.png",
-  "imageHash": "33ab8f22715e71ca2352af16c36b260e9eb06dac8c7ed4fd9c9b733f26e4fa9b",
+  "imageHash": "250095685c1ddb76f61cdbc906b8d1bb6ff43b29daaf6fc6fff751a0b890c560",
   "edition": 18,
-  "date": 1711586170884,
+  "date": 1711655862190,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Psykos Yung Lean"
+      "value": "Ornate Palace"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Alien"
+      "value": "Neon Jesus Glitch"
     },
     {
       "trait_type": "Eyes",
-      "value": "Monochromatic Question Mark"
+      "value": "closed 2"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "cigarette"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Orange Robe"
+      "value": "Floral Western Top"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight Straight Bangs with Diamond Clip"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Long Brown V Cut Bangs"
+      "value": "Black Straight"
     },
     {
       "trait_type": "Hat",
-      "value": "Christs Army Helmet"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Golden Machine Gun with Cyborg Hand"
+      "value": "Cake Slice"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Vaxxx Nazi"
+      "value": "I AM HOMOPHOBIC"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

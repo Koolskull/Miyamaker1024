@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #12",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "imageHash": "2163e61534fafb495b96bd9feb29e76496b18a9f954dd3d100bf7b06afcd7ce0",
+  "edition": 12,
+  "date": 1711655747542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swan in Burbank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad McChibi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Spiky Bangs Glitched"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Sparkley Heart Glasses Green"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Vaxxx Nazi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

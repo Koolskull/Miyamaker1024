@@ -1,0 +1,43 @@
+{
+  "name": "Miyamaker #25",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "imageHash": "73a86fbe175e92a5b085fe74a2e16963bb58a08d83b360dc04dbc8b1cfa8075f",
+  "edition": 25,
+  "date": 1711655752522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ascending Goku"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squinted Bushy Brows"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Printed Winter Coat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mowhawk"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Blah Blah Blah"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

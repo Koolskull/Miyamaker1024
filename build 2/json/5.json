@@ -1,0 +1,43 @@
+{
+  "name": "Miyamaker #5",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "imageHash": "7d17e7f4a8ef2f5e25ca44a2c441d7e2b37ef8aa21c353dc65dfe1db215b4652",
+  "edition": 5,
+  "date": 1711655744943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hindu Temple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lavender Floral Quincenera Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Blood Splatter"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

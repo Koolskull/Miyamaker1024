@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #10",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "imageHash": "af9bdc234b1514919f50626a2733225a04fe05837d0307071f3f5ee5dad8e968",
+  "edition": 10,
+  "date": 1711655746694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sand Oner Mural"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Accelerated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Raised Brow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Printed Winter Coat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Purple"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Sparkley Heart Glasses Green"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ukranian Bride Crown"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Kpop Hand with Green Nails and Milady Tattoo"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

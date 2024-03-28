@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #13",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "imageHash": "1593ae1c90064e798b8a5c0a7327c8265a9f611bbe0571e841b790d227782187",
+  "edition": 13,
+  "date": 1711655748102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blackface Trudeau"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Illuminated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Light pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Lady with Spiked Bangs"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Old Cellphone"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Blah Blah Blah"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

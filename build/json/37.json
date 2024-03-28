@@ -2,57 +2,57 @@
   "name": "Miyamaker #37",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/37.png",
-  "imageHash": "71bb1e05bc87b036b51e171a200ab3791346f7dd284aae08b6138aa8a7385bd9",
+  "imageHash": "e5d7a7f372c8e32e0a6a609eb5fea385f3223cd9a2eb66e614a89f7d9fbe8d77",
   "edition": 37,
-  "date": 1711586178918,
+  "date": 1711655869494,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cows in Old Ruins"
+      "value": "Japanese Goddess"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Alien"
+      "value": "squinted"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "mini frown"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Wrinkled Dark Grey Shirt"
+      "value": "Bubblegum Skull Army Spacesuit"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Purple"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "OG Miya Brown"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Gasmask"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "NO IMAGINATION NO BALLS"
+      "value": "Brown Curly"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Blue"
+      "value": "Golden Machine Gun with Cyborg Hand"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Kekistani Flag"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Grab em by the Pussy In Bio"
+      "value": "Ancient Swastika Throne"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "12311999 y2k Buy"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

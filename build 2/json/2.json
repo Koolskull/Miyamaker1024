@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #2",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "imageHash": "f0cea8e0823b2d2f3e34a6b2b3fc252eec1cf58fc3c2d6df3751d794f308be5a",
+  "edition": 2,
+  "date": 1711655743858,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "San Jose Glitch Landscape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Milady Dress with Pink Bow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cake Slice"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Su"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

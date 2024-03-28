@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #29",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "imageHash": "02676c293e3db721633a9a53f807f750ec4c2c28225c1cd8cf61b18940d341cb",
+  "edition": 29,
+  "date": 1711655754016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ascending Goku"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Cyber Gladiator Pink"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "MEssy Green Braids"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Holy Bible"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

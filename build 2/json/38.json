@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #38",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/38.png",
+  "imageHash": "7c2df45073363814623a8d49bb8084338f98d33eeb0b075099ae840f8ab7b720",
+  "edition": 38,
+  "date": 1711655757422,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Armory Shopping"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unhappy Frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ruffled Dragon Princess Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde choppy cut"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MFiya Doom"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Terry Webcam"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

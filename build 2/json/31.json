@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #31",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "imageHash": "14ca174b916c4a7176ef7f3f24ac6afd143149ce1034b7f3ef3a67e8f673392e",
+  "edition": 31,
+  "date": 1711655754793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Baby DJ on Tiktok"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unhappy Frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Milady Dress with Pink Bow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Middle Finger"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Radcat"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

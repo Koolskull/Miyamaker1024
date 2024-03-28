@@ -2,25 +2,25 @@
   "name": "Miyamaker #33",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/33.png",
-  "imageHash": "f9d3c9941367fad33d94dd7f5183adb2d7942f0ed2fd6bd37f83dee45098b990",
+  "imageHash": "71065b86151b88a785b28d0cf4b1f4ad2e72365cce28b8370e4697aab5099bd1",
   "edition": 33,
-  "date": 1711586177112,
+  "date": 1711655868026,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ornate Palace"
+      "value": "Radcat Ghostrider with Skull Bus"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Hearts"
+      "value": "Reptilian Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "srs"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,15 @@
     },
     {
       "trait_type": "Top",
-      "value": "Priest"
+      "value": "Dark Green Miya Jogger with Neon Trim"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple M-shape Bangs"
+      "value": "Short Bob Blue"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Spiky Brown"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Aztec Warrior"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Laughs in Goth"
+      "trait_type": "Overlay 2",
+      "value": "Retardio Cigarettes"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

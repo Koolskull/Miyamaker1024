@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #30",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "imageHash": "977cf658af3dead58d0fb34ce13ef7e07cd6bd4fae91d4b9a7c11d0e0a11608e",
+  "edition": 30,
+  "date": 1711655754364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Radcat Ghostrider with Skull Bus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad McChibi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Light pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Green Miya Jogger with Neon Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Blue"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Needle Gun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Runescape Demon"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Computer Love"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

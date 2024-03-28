@@ -2,49 +2,45 @@
   "name": "Miyamaker #39",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/39.png",
-  "imageHash": "de2cdba23699d208122070edb75d434318fc78af219553dd260f61bfda0f36b0",
+  "imageHash": "bc12eae5bf61dd9354a426a24be557507914355637b43daf4c09694927476149",
   "edition": 39,
-  "date": 1711586179931,
+  "date": 1711655870337,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Angel Portal"
+      "value": "Blossom"
     },
     {
       "trait_type": "Body",
-      "value": "Ascended Vril BlueGreen"
+      "value": "Aztec Warrior"
     },
     {
       "trait_type": "Eyes",
-      "value": "Half Open Eyes"
+      "value": "Heavy Metal Clown"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Preppy Milady Top"
+      "value": "Green Jogger with Lavendar Trim"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple M-shape Bangs"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Light Brown Choppy Bangs"
+      "value": "Brown Curly"
     },
     {
       "trait_type": "Hat",
-      "value": "Chinese Royalty"
+      "value": "Remilia Corp Cap"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "I LOVE YOU"
+      "trait_type": "Overlay",
+      "value": "Large Amounts of Money"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

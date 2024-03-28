@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #4",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "imageHash": "0da1a798977429d6333f56454c9ac5335c5b8cbc5757d0ba37ad79ca3ac7207d",
+  "edition": 4,
+  "date": 1711655744592,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swan in Burbank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Straight"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Cute Acceleration Machine Gun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Blood Splatter"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

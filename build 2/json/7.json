@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #7",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "imageHash": "ce4d2d18fd236c15383c296c40c727fe6aff76024ce5adf88e63531ca8c49a42",
+  "edition": 7,
+  "date": 1711655745625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geisha Sisters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitch Aura"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad McChibi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Reptil fangz"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Blue Neon"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Skull Mask"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Lightcode Glitch 05"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "There Is No Exit Pump Nigga"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

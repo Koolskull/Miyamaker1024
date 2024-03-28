@@ -2,25 +2,25 @@
   "name": "Miyamaker #14",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/14.png",
-  "imageHash": "0c5c377cfaed2888f56085e73ad961e28033f3cba5936860b84642bf284306b8",
+  "imageHash": "6295c0d3ef33215681067aeac0e47fb9f600a889cd582a369aea770a6df7672d",
   "edition": 14,
-  "date": 1711586168934,
+  "date": 1711655860773,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blossom"
+      "value": "CPS Sells Kids"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Hangry"
+      "value": "Feline Eyes Yellow"
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
@@ -28,31 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Miya Metal Shirt"
+      "value": "Ripped Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Pastel Green Emo Swoop"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Light Brown Choppy Bangs"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Chinese Royalty"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Blue"
+      "value": "Red side cut bangs"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Reaper DAW Scythe"
+      "value": "Master Chief Holding Money"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Barron Trump Naruto AMV"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "cuteSMS"
+      "value": "Your Opinion in the trash"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

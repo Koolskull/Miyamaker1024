@@ -2,13 +2,13 @@
   "name": "Miyamaker #16",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/16.png",
-  "imageHash": "e8b00bba2e10a7ffe2faa800ba3e55255b5645f5a836dbcc1d9396779a7a82c5",
+  "imageHash": "1a1829ce90db934c7e71e3cb246b48adabb97f3d88c2272d2aefedd3ffee93ed",
   "edition": 16,
-  "date": 1711586169828,
+  "date": 1711655861391,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Geisha Sisters"
+      "value": "Safe as Milk"
     },
     {
       "trait_type": "Body",
@@ -16,31 +16,43 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "squinted"
+      "value": "Green Raised Brow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Unhappy Frown"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Red Baggy Tee"
+      "value": "Pink Preppy Milady Top"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Long Wavy"
+      "value": "MEssy Green Braids"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Light Brown Choppy Bangs"
+      "trait_type": "Mask",
+      "value": "MFiya Doom"
     },
     {
       "trait_type": "Hat",
-      "value": "Miya Ranger"
+      "value": "Miyamaker Logo"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Red"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Blood Splatter"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "BartMoney"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

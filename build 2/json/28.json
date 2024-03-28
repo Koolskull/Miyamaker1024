@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #28",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "imageHash": "514504c67e06a9373b0c30ab63d7742c0d9e6975ca396600d171f742d697f30e",
+  "edition": 28,
+  "date": 1711655753622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Old World Construction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Neopolitan Hand Sewn Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown Side Part"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MiyaMaker Pro"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "German Grandpa from Argentina"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

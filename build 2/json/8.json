@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #8",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "imageHash": "4bc5af777bbac738b79bac68205bb481b38cd2ac71a6972daead3244c03967a4",
+  "edition": 8,
+  "date": 1711655745972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Y2K Browser"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitch Aura 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monochromatic Question Mark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SHOCKED"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Print Trenchcoat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dyed Red Short"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Axe"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Milady SOldier"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "P0nch0mon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

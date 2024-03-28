@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #16",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "imageHash": "26e7f027e4c28e82cea6f8d532dddd4d4dd40a6d79154862954882f9be7b3b14",
+  "edition": 16,
+  "date": 1711655749197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Salvation Army Grafiti 02"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Neopolitan Hand Sewn Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Bangs M Cut Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Alien demon skull hat"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Large Amounts of Money"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

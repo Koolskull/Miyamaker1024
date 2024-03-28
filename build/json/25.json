@@ -2,25 +2,25 @@
   "name": "Miyamaker #25",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/25.png",
-  "imageHash": "ab014eaba500b58e6a4f30fc26908aaf349e220c35818b777c10b1db114a8753",
+  "imageHash": "c083b8e21ec18f8211392642b955a644ee5fc937cd2ecb5cbe852f83091fcc0d",
   "edition": 25,
-  "date": 1711586173799,
+  "date": 1711655864853,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon City"
+      "value": "Databent Glitch Landscape"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aweee"
+      "value": "Heart Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini smirk"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
@@ -28,31 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Ripped Shirt"
+      "value": "Dark Green Miya Jogger with Neon Trim"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Purple"
+      "value": "Short Brown Wavy"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Blonde spiked Bangs"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
     },
     {
-      "trait_type": "Mask",
-      "value": "MIYA GOLD MOGGERS"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Pink Sparkle Cowgirl"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "I AM HOMOPHOBIC"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "You've been Loved by Christ"
+      "trait_type": "Right Arm",
+      "value": "Needle Gun"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

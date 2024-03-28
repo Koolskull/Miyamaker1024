@@ -2,29 +2,29 @@
   "name": "Miyamaker #38",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/38.png",
-  "imageHash": "db2e3da0f22fec9cde9435637775dc997177f7c56e3d1735b7f06e7aebe6d413",
+  "imageHash": "4494fdede5832d7b6635cb9b40b7d9e3fdfe85f71baef829224a3c967c1a4789",
   "edition": 38,
-  "date": 1711586179373,
+  "date": 1711655869986,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Salvation Army Grafiti 01"
+      "value": "Q-Web Holographic"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Hearts"
+      "value": "Brown Surprised"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini smirk"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
@@ -32,19 +32,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Anime Purple"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blonde Crazy Ties Copy"
+      "value": "Black Straight Straight Bangs with Diamond Clip"
     },
     {
       "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Christs Army Helmet"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Laser Eyes Purple"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Middle Finger"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "There Is No Exit Pump Nigga"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

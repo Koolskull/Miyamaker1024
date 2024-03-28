@@ -2,25 +2,25 @@
   "name": "Miyamaker #3",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/3.png",
-  "imageHash": "50b19ba514651b84b17c8d700f04f3a90708f66c91f3f1c1e8517639dda34da2",
+  "imageHash": "f709aba28e48a15818d3933516b08fa96b3574f237f34968a01db276839c592b",
   "edition": 3,
-  "date": 1711586163976,
+  "date": 1711655856456,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cows in Old Ruins"
+      "value": "MiyaMakerPyramid"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Ascended Vril BlueGreen"
     },
     {
       "trait_type": "Eyes",
-      "value": "Squinted Bushy Brows"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "cigarette"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
@@ -28,35 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Red Baggy Tee"
+      "value": "Wrinkled Dark Grey Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks with Green Bangs"
-    },
-    {
-      "trait_type": "Hair Behind",
       "value": "Brown Curly"
     },
     {
-      "trait_type": "Mask",
-      "value": "MIYA GOLD MOGGERS"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Miyamaker Logo"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Dredd Pirate Roberts"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Red"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "How Much I ACTUALLY love you"
+      "value": "Terry Webcam"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Thug That Shit Out Remilia"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

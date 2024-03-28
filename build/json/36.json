@@ -2,57 +2,53 @@
   "name": "Miyamaker #36",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/36.png",
-  "imageHash": "96342f2ce374f7f9d594ba2a5a3a15e2d26cb1bbd10deb75b13b4c204d47d2fe",
+  "imageHash": "ba08c4247a1a17417d23158de232e6eba07e65c120bc2d12706470cf102ee347",
   "edition": 36,
-  "date": 1711586178483,
+  "date": 1711655869118,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Portland Riverfront"
+      "value": "Beeftrix"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Glitch Aura 4"
     },
     {
       "trait_type": "Eyes",
-      "value": "SHOCKED"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "cigarette"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+      "value": "Floral Western Top"
     },
     {
       "trait_type": "Hair",
-      "value": "Teal Messy Center part with Skull Bows"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Pastel Green Emo Swoop"
+      "value": "Short Brown Wavy"
     },
     {
       "trait_type": "Hat",
-      "value": "Pink Sparkle Cowgirl"
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Kpop Hand with Green Nails and Milady Tattoo"
+      "value": "Stainless Steel Handgun"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Veilgazer ERC20"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Ganesh Swastika"
+      "trait_type": "Overlay 3",
+      "value": "How Much I ACTUALLY love you"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

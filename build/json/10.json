@@ -2,13 +2,13 @@
   "name": "Miyamaker #10",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/10.png",
-  "imageHash": "f840b134d1ed45bc8f1c642a95ce7dd7bf4fbfb8d979e64e95137ae6ab944b13",
+  "imageHash": "20be87c6be0ce9d9b29e27025e0692a2350456f87897afca9417c2b98871552a",
   "edition": 10,
-  "date": 1711586167232,
+  "date": 1711655859175,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Portals in her Apartment"
+      "value": "NEVER GOON"
     },
     {
       "trait_type": "Body",
@@ -16,31 +16,35 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Reptilian Eyes"
+      "value": "Green Raised Brow"
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Miya Maid"
+      "value": "Christs Cyber Army"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Green"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Long Straight"
+      "value": "Short Brown Wavy"
     },
     {
       "trait_type": "Hat",
-      "value": "Starberry Beret"
+      "value": "Lawbster"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Born to RAD"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Calvin Piss"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

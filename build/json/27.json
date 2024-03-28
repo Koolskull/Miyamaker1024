@@ -2,53 +2,53 @@
   "name": "Miyamaker #27",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/27.png",
-  "imageHash": "985a3df94d2d41bbc3ab56d6079b3a61aa9cef154e1c4c936fd29365d66e7982",
+  "imageHash": "f98c55ae3db1b177a3116b5a6b2505cb056486311014d0cd1a8ee211438feb56",
   "edition": 27,
-  "date": 1711586174568,
+  "date": 1711655865547,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Asian Temple"
+      "value": "No Trespassing"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "closed 2"
+      "value": "Feline Eyes Yellow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Light pink lipstick"
+      "value": "srs"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Tank"
+      "value": "Leather Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Green Milady Bangs"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Long Straight"
+      "value": "Blue Bob"
     },
     {
       "trait_type": "Hat",
-      "value": "Mutant Octopus"
+      "value": "Crown Chakra Download Green"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Green Gameb0y Color"
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "This Holy SON OF A VIRGIN"
+      "value": "Tamales"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "have you hugged an emo kid today"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,53 +2,49 @@
   "name": "Miyamaker #35",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/35.png",
-  "imageHash": "a3343bc4a0391a0259fec46dafbbd33b9c86ef2821812ae3f53896fc09fe24a9",
+  "imageHash": "71f137050f42b0756c9eb62e77e150c43fa3cf1c04f44e562568298de4d6f1f8",
   "edition": 35,
-  "date": 1711586178054,
+  "date": 1711655868774,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Texas Instrument Tracker"
+      "value": "Cybercity"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Monochromatic Question Mark"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Intergalactic Star Dress"
+      "value": "Red Baggy Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Teal tied up with long bangs"
+      "value": "Blue Bob"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Long Norse Blonde hair with Princess Braids"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Chinese Royalty"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Green"
     },
     {
       "trait_type": "Overlay",
-      "value": "have you hugged an emo kid today"
+      "value": "I LOVE YOU"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Blah Blah Blah"
+      "value": "Benner Cycle 1875"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

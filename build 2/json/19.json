@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #19",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "imageHash": "fba8f5a19721c73c575f470a71a2144e623ead2533b792099c8b37bdf40f1eac",
+  "edition": 19,
+  "date": 1711655750199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tokyo B&W"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Lavender Floral Quincenera Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dyed Red Short"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Laser Eyes Purple"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "cuteSMS"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

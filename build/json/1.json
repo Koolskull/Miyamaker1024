@@ -2,17 +2,17 @@
   "name": "Miyamaker #1",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/1.png",
-  "imageHash": "e9389292e583d13d9e076ea742eec2352c8fb907334f6cd3287d8dd0774c2ab0",
+  "imageHash": "c97ef0bff5621a21f60fdb7a61106340b0ab3a3583684091ae59dc8bad53fec3",
   "edition": 1,
-  "date": 1711586163152,
+  "date": 1711655855704,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "NEVER GOON"
+      "value": "Ganesh"
     },
     {
       "trait_type": "Body",
-      "value": "Glitch Aura"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "Stitched Shut"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,11 @@
     },
     {
       "trait_type": "Top",
-      "value": "Neopolitan Hand Sewn Tee"
+      "value": "Pink Intergalactic Star Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Sailor MXXN"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Long Straight"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Miya Ranger"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Master Chief Cigar"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Master Chief Holding Money"
+      "value": "Black Straight"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #32",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "imageHash": "d3b0dd9c37449e0a729052fd1c4836a568741b9e1a2a7cce97447fbfc8eae670",
+  "edition": 32,
+  "date": 1711655755134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Reaper DAW"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Maid"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Spiky Bangs Bluegreen"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Thrash44 Records"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Master Chief Holding Money"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

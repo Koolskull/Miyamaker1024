@@ -1,0 +1,43 @@
+{
+  "name": "Miyamaker #22",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/22.png",
+  "imageHash": "53ed39024f10d093ecd1f7b675c23e291877ed18b09646ea575f624155f94018",
+  "edition": 22,
+  "date": 1711655751394,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Checkmate"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Thug That Shit Out Remilia"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

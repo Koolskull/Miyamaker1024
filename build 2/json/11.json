@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #11",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "imageHash": "a52a7fd3014ef12f690ad58baebb6c2c9aa019c23b173480b046fcc2b37c4a18",
+  "edition": 11,
+  "date": 1711655747129,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MOG Grandma"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ruffled Dragon Princess Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Spiky Bangs Bluegreen"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Urge to Crusade Intensifies"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Miyamaker #37",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "imageHash": "5c0946bae5a5ef25ee40d71aa27691d7d9aba0eb5cff6cf403c9f81bf23bb355",
+  "edition": 37,
+  "date": 1711655757186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hansa Market"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mildly grumpy"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Printed Winter Coat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Faded Brown Spikey Short"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "John Maus Pitiless Censors"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -2,13 +2,13 @@
   "name": "Miyamaker #31",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/31.png",
-  "imageHash": "b28c82532318945e7d350c888a28dc6cea116d3b2684abe7ddc403d61e5be069",
+  "imageHash": "63315e81efe56920410efb29e761f446e882430c580f594c9a0ea0d8a4c85492",
   "edition": 31,
-  "date": 1711586176343,
+  "date": 1711655867121,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Glitch Polygon Distortion"
+      "value": "Corona Virus Stan"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Heart Eyes"
+      "value": "Green Warrior for Christ"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini frown"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,31 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Pink Miya Sweater"
+      "value": "Cyber Gladiator Pink"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Peach Neon"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Light Brown Choppy Bangs"
+      "value": "Spiky Bangs M Cut Green"
     },
     {
       "trait_type": "Hat",
-      "value": "Aztec Warrior"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Handgun"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Satoshi Dice"
+      "value": "Mutant Octopus"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "YOu SO Wanna Be Gangsta Like US"
+      "value": "Fact Checked"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Keep it Trashy"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #0",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/0.png",
+  "imageHash": "e81a35484b553be8308f13b0536931484b1aef5ffa583ed7e5d9b7b420d628cd",
+  "edition": 0,
+  "date": 1711655743136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Vapor Train"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blue Printed Winter Coat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Straight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headturama"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Old Cellphone"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Barron Trump Naruto AMV"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "There Is No Exit Pump Nigga"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

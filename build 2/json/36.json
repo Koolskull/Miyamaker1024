@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #36",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/36.png",
+  "imageHash": "29f1cabf99a59eb855ffa64344b6da131f7bcb4fde2427689b55f37a32330e1d",
+  "edition": 36,
+  "date": 1711655756963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Y2K Browser"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Neopolitan Hand Sewn Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Right Pink Bow"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Wielding Electricity"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Milady SOldier"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "MVP"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

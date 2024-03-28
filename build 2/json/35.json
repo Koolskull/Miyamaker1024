@@ -1,0 +1,43 @@
+{
+  "name": "Miyamaker #35",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "imageHash": "4b43618d700e4a65811e62210dec85d5f3a541afe7022d9ad39ca4980a36da41",
+  "edition": 35,
+  "date": 1711655756452,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MiyaUniverse"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Space Communist"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Norse Blonde hair with Princess Braids"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Veilgazer ERC20"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -2,25 +2,25 @@
   "name": "Miyamaker #22",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/22.png",
-  "imageHash": "8d5e6abd04c3ca34b95b6ec94f911ac697124cb9b9e743295a86b7cc2f7e4f8e",
+  "imageHash": "016b5776e105cfdb0a353317ee8f0088ac3b3c2561b806162d79a6996d6fe480",
   "edition": 22,
-  "date": 1711586172528,
+  "date": 1711655863701,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "wow she is LITERALLY me!"
+      "value": "Y2K Browser"
     },
     {
       "trait_type": "Body",
-      "value": "Glitch Aura 2"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Hearts"
+      "value": "Pink Heart Glimmer"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,31 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Priest"
+      "value": "Lavender Floral Quincenera Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Sailor MXXN"
+      "value": "Light Blue Braided"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Long Straight"
+      "trait_type": "Mask",
+      "value": "Golden Silver Oni Mask"
     },
     {
       "trait_type": "Hat",
-      "value": "Please Be Patient with me im soooooooooo"
+      "value": "Period Bomb TV"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Trump Higher"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Red"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Su"
+      "value": "Veilgazer ERC20"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "have you hugged an emo kid today"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

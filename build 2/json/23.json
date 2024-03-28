@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #23",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "imageHash": "12f5304827c7c4a4a76b818597f0401a5064db327a3778931e99f20fa5504cc8",
+  "edition": 23,
+  "date": 1711655751814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swan in Burbank"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Faded Wavy Glitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bubblegum Skull Army Spacesuit"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Light Blonde"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Sparkle Cowgirl"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Wikileaks"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Retardio Cigarettes"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

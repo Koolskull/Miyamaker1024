@@ -2,25 +2,25 @@
   "name": "Miyamaker #28",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/28.png",
-  "imageHash": "d5242f4f4c20ebf821cbb52512995dd83fda4dc084815bc2d4dd4387b5771917",
+  "imageHash": "51c3528af9244e32ae02a8397bea7e9ea55a3691176f5e1493f087b6148f3a88",
   "edition": 28,
-  "date": 1711586175127,
+  "date": 1711655865982,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "pastel ipad desktop"
+      "value": "Selfie Glitch"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Amoebas"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Warrior for Christ"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "GRILLZ"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
@@ -28,35 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Miya Metal Shirt"
+      "value": "Purple Puffy Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Long Brown V Cut Bangs"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Mutant Octopus"
+      "value": "Black Straight"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Master Chief Cigar"
+      "value": "Samurai Sword with Blood"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "value": "Samurai Sword with Blood"
     },
     {
       "trait_type": "Overlay",
-      "value": "Kekistani Flag"
+      "value": "YOu SO Wanna Be Gangsta Like US"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "YOu SO Wanna Be Gangsta Like US"
+      "value": "have you hugged an emo kid today"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

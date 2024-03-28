@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #34",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "imageHash": "4d505b81bc9609fc2e4f3ba9274ef644cec071f7e13caca4958b7b8c3d890610",
+  "edition": 34,
+  "date": 1711655756027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chicago Fires"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Jesus Glitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squinted Bushy Brows"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "srs"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ripped Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dyed Red Short"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Strawbie"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Wikileaks"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "MVP"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

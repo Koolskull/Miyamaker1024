@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #27",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "imageHash": "d91553cf6b4cec9ee55a2d440cc52d6cbc1eade30d77c3ef64003658666a26fc",
+  "edition": 27,
+  "date": 1711655753280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "DTLA Under Bridge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Illuminated"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Neopolitan Hand Sewn Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pastel Squiggel Blue"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "VeilGazer Cyborg"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Wownero Mutant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

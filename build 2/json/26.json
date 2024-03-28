@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #26",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "imageHash": "7e107c84153a82a84c987e98a88f5ff340f6089be063913641259cc3d4983f93",
+  "edition": 26,
+  "date": 1711655752903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon Night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Light pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Overalls"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Berachain Cap"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Milady SOldier"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "You've been Loved by Christ"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

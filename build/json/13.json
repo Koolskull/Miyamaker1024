@@ -2,17 +2,17 @@
   "name": "Miyamaker #13",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/13.png",
-  "imageHash": "a124b0245db65f2d90ee66e379645a0a52713f8de388c8d5e7ed17f364b8102f",
+  "imageHash": "4f3e07b24ea45cc57599853e6fee25be9d9072ae1045ca21b6a00aa7bee07363",
   "edition": 13,
-  "date": 1711586168434,
+  "date": 1711655860406,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Y2K Browser"
+      "value": "Neon Night"
     },
     {
       "trait_type": "Body",
-      "value": "Glitch Aura 3"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
@@ -20,39 +20,23 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "mini frown"
+      "value": "Red Lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Floral Dress with Bee"
+      "value": "White Milady Dress with Pink Bow"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blue Bob"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Purple Koolio Braids"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Middle Finger"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Fact Checked"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Kekistani Flag"
+      "value": "Wielding Electricity"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

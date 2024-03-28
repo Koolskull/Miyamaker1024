@@ -2,57 +2,49 @@
   "name": "Miyamaker #29",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/29.png",
-  "imageHash": "8c682fcef5cd4c065a7bb65a332f4bcddd819633b1f7717c7f66f783a36232c5",
+  "imageHash": "44ae027ee5113c65ca6873071b49340868d528d68c2a1a803f5af0f6bff7c0f1",
   "edition": 29,
-  "date": 1711586175545,
+  "date": 1711655866408,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Jean Mors Drumset"
+      "value": "Meditating on the Healing Web by DSMP - deepstatemappingproject<dot>com"
     },
     {
       "trait_type": "Body",
-      "value": "Ascended Vril Purple"
+      "value": "Ascended Vril BlueGreen"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smile eyes"
+      "value": "squinted"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "Red Lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Dark Green Miya Jogger with Neon Trim"
+      "value": "Floral Western Top"
     },
     {
       "trait_type": "Hair",
-      "value": "Sailor MXXN"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blonde Crazy Ties Copy"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "OG Miya Brown"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Green"
+      "value": "Green Gameb0y Color"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Runescape Login"
+      "trait_type": "Right Arm",
+      "value": "Golden Dagger"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "How Much I ACTUALLY love you"
+      "value": "Tamales"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

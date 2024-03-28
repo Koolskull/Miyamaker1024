@@ -2,25 +2,25 @@
   "name": "Miyamaker #5",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/5.png",
-  "imageHash": "7bc7447605ccbf7709bacf11149f97341dfe8aa6199ff1d9ddf748553dabc96d",
+  "imageHash": "d12e1ceba27ce4b77b887a821fffa3289c064628c174e6cc7f72356c3aabb0df",
   "edition": 5,
-  "date": 1711586164888,
+  "date": 1711655857289,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Safe as Milk"
+      "value": "Rad Warzone"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Alien"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "Red Lipstick"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Ripped Shirt"
+      "value": "Floral Dress with Bee"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Bangs M Cut Green"
+      "value": "Faded Brown Spikey Short"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Blue Bob"
+      "trait_type": "Mask",
+      "value": "Oni Mouth"
     },
     {
       "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Lawbster"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Kpop Hand with Green Nails and Milady Tattoo"
+      "value": "Stainless Steel Handgun"
     },
     {
       "trait_type": "Overlay",
-      "value": "Look at my Lawyer Dawg"
+      "value": "Computer Love"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

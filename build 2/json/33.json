@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #33",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/33.png",
+  "imageHash": "962fb948b0deb0b03abc87026676c63b8ff0edb6a4103728bca4364997f7ff1d",
+  "edition": 33,
+  "date": 1711655755543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Texas Instrument Tracker"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Schizoposter Glitch Aura"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "High Collar Winter Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dyed Red Short"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Milady SOldier"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Black Sun Milady"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

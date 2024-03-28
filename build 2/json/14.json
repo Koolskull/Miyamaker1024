@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #14",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "imageHash": "ed09142eae52358c3e317a7d21c80f9248e62f147042ffed98dda17353473ab0",
+  "edition": 14,
+  "date": 1711655748556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chinatown Station"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Symbiote Slime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mutant Fangz"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Bangs M Cut Brown"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Lightcode Glitch 07"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "John Maus Pitiless Censors"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Blood Splatter"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

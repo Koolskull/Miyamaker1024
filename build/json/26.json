@@ -2,53 +2,49 @@
   "name": "Miyamaker #26",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/26.png",
-  "imageHash": "953ba8c29c9f36d5306f0bce62d1be6093b099563696464d061d32265ffb30ba",
+  "imageHash": "222d9c8090623b2ef73b23e0553d6805c27c8219737347fd40ac35d216abdf86",
   "edition": 26,
-  "date": 1711586174161,
+  "date": 1711655865142,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Holographic Beverly HIlls"
+      "value": "Neon Night"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Glitch Aura"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Closed"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Priest"
+      "value": "Neopolitan Hand Sewn Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "McChibi Sailor Braid Buns"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Wind Blown Long"
+      "value": "Short Brown Side Part"
     },
     {
       "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Remilia Corp Cap"
     },
     {
       "trait_type": "Overlay",
-      "value": "Large Amounts of Money"
+      "value": "There Is No Exit Pump Nigga"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "Wownero Mutant"
+      "trait_type": "Overlay 3",
+      "value": "Laughs in Goth"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

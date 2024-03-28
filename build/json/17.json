@@ -2,13 +2,13 @@
   "name": "Miyamaker #17",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/17.png",
-  "imageHash": "e7f4ed71481e9d4355b51ec03bdd275400f74915f803150f04f757012a9e90d6",
+  "imageHash": "0768973e0f1d10b0f4670662f0a693b711b7990d3d39e15d119f77d8100e2df3",
   "edition": 17,
-  "date": 1711586170417,
+  "date": 1711655861784,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Q-Web Holographic"
+      "value": "Psykos Yung Lean"
     },
     {
       "trait_type": "Body",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Reptilian Eyes"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
@@ -24,27 +24,27 @@
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Christs Cyber Army"
+      "value": "Blue Printed Winter Coat"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Spiky Bangs Bluegreen"
+      "value": "Pastel Squiggel Blue"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Long Norse Blonde hair with Princess Braids"
+      "trait_type": "Mask",
+      "value": "MIYA GOLD MOGGERS"
     },
     {
-      "trait_type": "Hat",
-      "value": "Chinese Royalty"
+      "trait_type": "Overlay",
+      "value": "They Think im Dora the way my Bag Talk"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Gangsta Sanic"
+      "value": "Kekistani Flag"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

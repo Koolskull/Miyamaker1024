@@ -2,25 +2,25 @@
   "name": "Miyamaker #15",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/15.png",
-  "imageHash": "87321c32e93768312a61068106a9b7f62d4b291c3c424f4d89779258532244fe",
+  "imageHash": "b477bf1291c3977f0b04d7ea11d6b8e164bbd8d66ae319ba3099f595eb02f4e0",
   "edition": 15,
-  "date": 1711586169387,
+  "date": 1711655861014,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Safe as Milk"
+      "value": "Tokyo B&W"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Hyper-dimensional eyes"
+      "value": "Aweee"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Pink Tank"
+      "value": "Floral Dress with Bee"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Brown Side Part"
+      "value": "OG Miya Brown"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Blonde Curls"
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
     },
     {
-      "trait_type": "Hat",
-      "value": "Chinese Royalty"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Master Chief Cigar"
+      "trait_type": "Overlay 2",
+      "value": "Classy Solana Coins"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

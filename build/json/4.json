@@ -2,17 +2,17 @@
   "name": "Miyamaker #4",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/4.png",
-  "imageHash": "64b96522d352a51a4ce767373f002e35b01a4281fb99bf046709f07bd717b73a",
+  "imageHash": "4941c2b7cbe59e3eee4ef6ad71f2ec2b9305188f29d454bb601b07d3f804c31c",
   "edition": 4,
-  "date": 1711586164467,
+  "date": 1711655856913,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Angel Portal"
+      "value": "Inside Salvation Mountain"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Neon Jesus Glitch"
     },
     {
       "trait_type": "Eyes",
@@ -20,35 +20,35 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Red Lipstick"
+      "value": "srs"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Western Jean Sleeveless"
+      "value": "Miya Maid"
     },
     {
       "trait_type": "Hair",
-      "value": "Brunette Wind Blown Long"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Black Straight Straight Bangs with Diamond Clip"
+      "value": "Dreadlocks with Green Bangs"
     },
     {
       "trait_type": "Hat",
-      "value": "Chinese Royalty"
+      "value": "Miyamaker Great Again Red Trucker"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Master Chief Holding Money"
+      "trait_type": "Overlay",
+      "value": "have you hugged an emo kid today"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Holy Bible"
+      "value": "Born to RAD"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Your Opinion in the trash"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,48 +2,52 @@
   "name": "Miyamaker #20",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/20.png",
-  "imageHash": "d8d2597ec625478d5753942e92f62e52b8ca79e77e18633c372149f3b7033e55",
+  "imageHash": "0da4e4ca6bd8199090cf3a32e01d2ebb39378352ea755cfbaf4b9f6a5cd127ec",
   "edition": 20,
-  "date": 1711586171710,
+  "date": 1711655862924,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Hindu Temple"
+      "value": "Glitch Polygon Distortion"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aweee"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+      "value": "Bubblegum Bomber Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "McChibi Sailor Braid Buns"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blue Bangs"
+      "value": "Green Milady Bangs"
     },
     {
       "trait_type": "Hat",
-      "value": "MAGA"
+      "value": "Dragon Princess Skull Crown"
     },
     {
-      "trait_type": "Overlay 2",
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Veilgazer ERC20"
+    },
+    {
+      "trait_type": "Overlay 3",
       "value": "I LOVE YOU"
     }
   ],

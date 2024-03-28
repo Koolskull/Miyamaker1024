@@ -2,45 +2,45 @@
   "name": "Miyamaker #24",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/24.png",
-  "imageHash": "5f76ab28a20282bc1e9339a5fb54eb83b3d7b0d3ded45fcd0209dbb30fee10ba",
+  "imageHash": "dcbbb9f6b085b81492d89547ca1759103effe1c71809944172c7588004f37e51",
   "edition": 24,
-  "date": 1711586173368,
+  "date": 1711655864507,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Satoshi Dice"
+      "value": "I love you Binglee"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Squinted Bushy Brows"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Miya Sweater"
+      "value": "McChibi Pink Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Mowhawk"
+      "value": "Pastel Squiggel Pink"
     },
     {
-      "trait_type": "Hair Behind",
-      "value": "Blonde Crazy Ties Copy"
+      "trait_type": "Right Arm",
+      "value": "Wielding Electricity"
     },
     {
-      "trait_type": "Hat",
-      "value": "Chinese Royalty"
+      "trait_type": "Overlay 2",
+      "value": "Laughs in Goth"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

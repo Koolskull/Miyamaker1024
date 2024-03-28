@@ -2,25 +2,25 @@
   "name": "Miyamaker #6",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/6.png",
-  "imageHash": "c89a8582e007ff084378a861da06630be4efd8aa41ce584664411d601449f1c9",
+  "imageHash": "745f98850d9ec81066bd1c1b2fdc583f632f62ccf50bbed7499a0cbb14ba1e0c",
   "edition": 6,
-  "date": 1711586165269,
+  "date": 1711655857758,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Reaper DAW"
+      "value": "Light Angel Portal"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Psychedelic Purple"
     },
     {
       "trait_type": "Eyes",
-      "value": "SHOCKED"
+      "value": "Squinted Bushy Brows"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Green Jogger with Lavendar Trim"
+      "value": "Executive Suit"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Bangs M Cut Purple"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blue Bangs"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Aztec Warrior"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Machine Gun"
+      "value": "Chinese Royalty"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "100 PERCENT CUTE"
+      "value": "This Holy SON OF A VIRGIN"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Laser Eyes Purple"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

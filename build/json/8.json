@@ -2,57 +2,45 @@
   "name": "Miyamaker #8",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/8.png",
-  "imageHash": "c5c15ce4d8aeecfa3c605c1aea5f0c94aeda1b5e724d6bdb34d2e122c5e6e194",
+  "imageHash": "696d8020dfdb5c144bf903f579588195027eeb47b89283b4422f472c6105fed5",
   "edition": 8,
-  "date": 1711586166266,
+  "date": 1711655858463,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Vapor Train"
+      "value": "Cyborg Sister and ascended sisters"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Heart Glimmer"
+      "value": "Squinted Bushy Brows"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini smirk"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Neopolitan Hand Sewn Tee"
+      "value": "Green Jogger with Lavendar Trim"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Spiky Bangs Bluegreen"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brown Curly"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "El Basico de Bastidas Luchador Mask"
+      "value": "Radbro Cut Neon Glitch"
     },
     {
       "trait_type": "Hat",
-      "value": "Miyamaker Great Again Red Trucker"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Green Gameb0y Color"
+      "value": "Trump Is My Nigga"
     },
     {
       "trait_type": "Overlay",
-      "value": "cuteSMS"
+      "value": "Blah Blah Blah"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

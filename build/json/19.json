@@ -2,13 +2,13 @@
   "name": "Miyamaker #19",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/19.png",
-  "imageHash": "c92dcb0764ca762fd455cd70bd26bee2fcc37713b8591cd0155fc5c1bc52674b",
+  "imageHash": "e09d41076bd67c1bfbce0fd702fb7e825fcf1dfad924577f5c642e6df512c87d",
   "edition": 19,
-  "date": 1711586171283,
+  "date": 1711655862586,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rad Warzone"
+      "value": "Safe as Milk"
     },
     {
       "trait_type": "Body",
@@ -16,39 +16,35 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Aweee"
+      "value": "Hangry"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "Hangry"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "80's Monochrome Jacket"
+      "value": "Cyber Gladiator Pink"
     },
     {
       "trait_type": "Hair",
-      "value": "McChibi Sailor Braid Buns"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Long Brown V Cut Bangs"
+      "value": "Blonde choppy cut"
     },
     {
       "trait_type": "Hat",
-      "value": "Strawbie"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "value": "Mutant Octopus"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "have you hugged an emo kid today"
+      "value": "Thug That Shit Out Remilia"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Runescape Demon"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,25 +2,25 @@
   "name": "Miyamaker #0",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/0.png",
-  "imageHash": "5dd93a2e03126a9707a2981b5fcdc43e84e5d05f2d2659ea07536ec18251ad4c",
+  "imageHash": "33238047cd061c8c5cde8b53543a8d3e170fa69ee7e179483d9635315a7a141e",
   "edition": 0,
-  "date": 1711586162708,
+  "date": 1711655855314,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mugs Ford Wagon"
+      "value": "Neon Hallway B&W"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smile eyes"
+      "value": "Monochromatic Question Mark"
     },
     {
       "trait_type": "Mouth",
-      "value": "Light pink lipstick"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Bubblegum Skull Army Spacesuit"
+      "value": "Lavender Floral Quincenera Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Bangs M Cut Green"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Brunette Long Straight"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Heart Skull Digital Vision Mask"
+      "value": "Teal Messy Center part with Skull Bows"
     },
     {
       "trait_type": "Hat",
-      "value": "Aztec Warrior"
+      "value": "Please Be Patient with me im soooooooooo"
     },
     {
-      "trait_type": "Overlay",
-      "value": "They Think im Dora the way my Bag Talk"
+      "trait_type": "Overlay 3",
+      "value": "Blah Blah Blah"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

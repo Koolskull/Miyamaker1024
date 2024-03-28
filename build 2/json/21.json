@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #21",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "imageHash": "7b891f955507d3679331d634c7bd1dffadc4af3f8b8293c7ec9377eb64187c37",
+  "edition": 21,
+  "date": 1711655751068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cops on the Metro"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Tri-vision"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Bangs M Cut Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cyborg Cat Ears"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

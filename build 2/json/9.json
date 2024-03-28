@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #9",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "imageHash": "697825bffa7c14fc2bf6162aeb3fddcb18e931e663f978a0bed5a0b71b3f438c",
+  "edition": 9,
+  "date": 1711655746313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Log On And Win Forever"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Priest"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Curly"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winged Koolskull Mutant"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

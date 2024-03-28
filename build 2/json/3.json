@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #3",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "imageHash": "9eae67c1fe829e162d2583ce667da178d92f95ad87a0cc67840257b5b1db6dc9",
+  "edition": 3,
+  "date": 1711655744214,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cops on the Metro"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "srs"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Milady Dress with Pink Bow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Green"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Spy Shades"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Old Cellphone"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

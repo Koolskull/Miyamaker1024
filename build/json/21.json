@@ -2,53 +2,45 @@
   "name": "Miyamaker #21",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/21.png",
-  "imageHash": "68dba4a4b206a07fc7056282dc5cb7d99e4680f3aa103e32642a33a25f632ab3",
+  "imageHash": "a4056be5bd1b7c2f56d70828e9318f87b7d08d9c690763fee7ec68f31cc0bf61",
   "edition": 21,
-  "date": 1711586172048,
+  "date": 1711655863313,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Japanese Goddess"
+      "value": "ComicStudio Glitch"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Neon Accelerated"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Hearts"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "Hangry"
+      "value": "mildly grumpy"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Orange Robe"
+      "value": "Cyber Gladiator Pink"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Tie Up with Braids"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Blonde Curls"
+      "value": "Black Straight"
     },
     {
       "trait_type": "Hat",
-      "value": "Chinese Royalty"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Golden Machine Gun"
+      "value": "Period Bomb TV"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Praise KEK"
+      "value": "Dredd Pirate Roberts"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

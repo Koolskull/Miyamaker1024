@@ -2,17 +2,17 @@
   "name": "Miyamaker #32",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/32.png",
-  "imageHash": "e9446f04c87bee47ce3bc991270019f08283a83528418de3015efa4acf270c22",
+  "imageHash": "8e71233bc917f1459090f700b270638dc28ff12b084775695b92e378d4b1cdcf",
   "edition": 32,
-  "date": 1711586176683,
+  "date": 1711655867673,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Hemi Sync"
+      "value": "Japanese Goddess"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Schizoposter Glitch Aura"
     },
     {
       "trait_type": "Eyes",
@@ -20,35 +20,31 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Big smile"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Red Baggy Tee"
+      "value": "Western Jean Sleeveless"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple Lady with Spiked Bangs"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Long Brown V Cut Bangs"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Gasmask"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "MiyaMaker Pro"
+      "value": "Short Bob Pink Corrupted Glitch"
     },
     {
       "trait_type": "Overlay",
-      "value": "Calvin Piss"
+      "value": "Runescape Login"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Lightcode Glitch 07"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Veilgazer ERC20"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

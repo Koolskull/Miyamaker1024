@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #24",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "imageHash": "73b60f263c7a50833e6afdcfe0b8bace6e220b8752a4854a8c8f3a8ed6feb2cf",
+  "edition": 24,
+  "date": 1711655752172,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Salvation Army Grafiti 01"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mutant Fangz"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Space Communist"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Reptile Hand with Eye Palm"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "100 PERCENT CRAZY"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

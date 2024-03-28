@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #1",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "imageHash": "42152a3f8eec218944b8bbcbc6c3f5a38df2a98ad59fe45f0e4bf65558260316",
+  "edition": 1,
+  "date": 1711655743517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beeftrix"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Embroidered Miya Baseball Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pastel Squiggel Blonde"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "cat ears with bells"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Wielding Electricity"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Terry Webcam"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

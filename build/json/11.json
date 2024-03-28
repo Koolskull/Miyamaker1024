@@ -2,25 +2,25 @@
   "name": "Miyamaker #11",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/11.png",
-  "imageHash": "be415a752652ac11bf4a52e6e3fb93c24e1f1df92f484db6ded2f9c67f27f9e9",
+  "imageHash": "95f20a83c8baf1f545a997dd593ad971176dc7d7f3bff9afe7ca2f534c8e891d",
   "edition": 11,
-  "date": 1711586167644,
+  "date": 1711655859602,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Hallway B&W"
+      "value": "Satoshi Dice"
     },
     {
       "trait_type": "Body",
-      "value": "Dataswirls"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smile eyes"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini frown"
+      "value": "Mutant Gums"
     },
     {
       "trait_type": "Nose",
@@ -28,35 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Embroidered Miya Baseball Tee"
+      "value": "Priest"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Curly"
-    },
-    {
-      "trait_type": "Hair Behind",
-      "value": "Light Brown Choppy Bangs"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Loved by Christ Psyop Skull"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Green Gameb0y Color"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Silk Road Logo"
+      "value": "MEssy Green Braids"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "YOu SO Wanna Be Gangsta Like US"
+      "value": "Wikileaks"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Laughs in Goth"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
