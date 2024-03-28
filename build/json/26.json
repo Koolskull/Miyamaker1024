@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #26",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "imageHash": "953ba8c29c9f36d5306f0bce62d1be6093b099563696464d061d32265ffb30ba",
+  "edition": 26,
+  "date": 1711586174161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Holographic Beverly HIlls"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad McChibi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Priest"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Large Amounts of Money"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Wownero Mutant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #36",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/36.png",
+  "imageHash": "96342f2ce374f7f9d594ba2a5a3a15e2d26cb1bbd10deb75b13b4c204d47d2fe",
+  "edition": 36,
+  "date": 1711586178483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portland Riverfront"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SHOCKED"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Teal Messy Center part with Skull Bows"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Pastel Green Emo Swoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Sparkle Cowgirl"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Kpop Hand with Green Nails and Milady Tattoo"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Veilgazer ERC20"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Ganesh Swastika"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

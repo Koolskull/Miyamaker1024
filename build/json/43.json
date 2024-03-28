@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #43",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/43.png",
+  "imageHash": "a361efe6aa018200d3fd04a064fe4739dee9163b8fdbae7cae0d28e6e3d05894",
+  "edition": 43,
+  "date": 1711586181859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "La Brea Ramen Milady Tagger"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ripped Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown Wavy"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miyamaker Logo"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #59",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/59.png",
+  "imageHash": "e084a5abc290bc740940143911fbbbbf1960219025284e9678276c40339b3fb7",
+  "edition": 59,
+  "date": 1711586189069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Remco Tuners Parking Lot"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Pleased"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Executive Suit"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Lady with Spiked Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties Copy"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Skull Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miya Ranger"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

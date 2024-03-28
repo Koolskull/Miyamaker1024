@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #80",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/80.png",
+  "imageHash": "b94f5160650d484b4cd2310daf87819cfe96ee0e976faaa232809f24be1a4248",
+  "edition": 80,
+  "date": 1711586199277,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chicago Fires"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Bangs M Cut Green"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "GLITCH 03 REEETARD"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Cute Acceleration Machine Gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

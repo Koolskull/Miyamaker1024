@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #79",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/79.png",
+  "imageHash": "dc5ed84a41587b2f2f3bfdc8845e00518d49f12c684e187bcbb309f228a80407",
+  "edition": 79,
+  "date": 1711586198883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Q-Web Holographic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Priest"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Large Amounts of Money"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

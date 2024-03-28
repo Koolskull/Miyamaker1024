@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #56",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/56.png",
+  "imageHash": "55b4eb15855131ce02b6648c726745b4fa45f5d9a39e5fd30f215d3e64912fd5",
+  "edition": 56,
+  "date": 1711586187670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Radcat Ghostrider with Skull Bus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril BlueGreen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Baggy Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Pigtails"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Oni Mouth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Alien demon skull hat"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "P0nch0mon"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Your Opinion in the trash"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

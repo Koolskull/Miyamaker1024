@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #11",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "imageHash": "be415a752652ac11bf4a52e6e3fb93c24e1f1df92f484db6ded2f9c67f27f9e9",
+  "edition": 11,
+  "date": 1711586167644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon Hallway B&W"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dataswirls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Embroidered Miya Baseball Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Curly"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Loved by Christ Psyop Skull"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Silk Road Logo"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "YOu SO Wanna Be Gangsta Like US"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

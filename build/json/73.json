@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #73",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/73.png",
+  "imageHash": "32e6d1f219fbb5ffdc074856610af5d7013d6ec86acad5a52488562c57c0d748",
+  "edition": 73,
+  "date": 1711586196185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Selfie Glitch"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Venom Glitché"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hyper-dimensional eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Dress with Bee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Tie Up with Braids"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Please Be Patient with me im soooooooooo"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Benner Cycle 1875"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

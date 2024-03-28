@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #27",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "imageHash": "985a3df94d2d41bbc3ab56d6079b3a61aa9cef154e1c4c936fd29365d66e7982",
+  "edition": 27,
+  "date": 1711586174568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asian Temple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Light pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Tank"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Milady Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Long Straight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mutant Octopus"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "This Holy SON OF A VIRGIN"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

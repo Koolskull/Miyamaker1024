@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #12",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "imageHash": "62a99a899b092dcefb6a41368ef344f27bc204fe87d4f49f75ab09cd46f1ad94",
+  "edition": 12,
+  "date": 1711586168043,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta Planet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "squinted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SHOCKED"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "White Milady Dress with Pink Bow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radbro Cut"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MAGA"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Holy Bible"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "NIgger Mode - ON"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

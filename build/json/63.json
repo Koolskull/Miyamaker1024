@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #63",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/63.png",
+  "imageHash": "ecd3730dd5e98dc6bda0fa1fb7f4542a70558b2c556cc16373df5e4d546fefd6",
+  "edition": 63,
+  "date": 1711586191013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink and Green Error"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Jogger with Lavendar Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Light Blonde"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Thrash44 Skull"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Ancient Swastika Throne"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

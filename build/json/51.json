@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #51",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "imageHash": "1a5747dde7c5ad678b1431a5bf1b2c9ba522267a322ce2189cffec9439d9c3c6",
+  "edition": 51,
+  "date": 1711586185527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yosemite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Accelerated Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "squinted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Christs Cyber Army"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Blue"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Axe"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Laughs in Goth"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

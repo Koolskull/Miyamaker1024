@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #20",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "imageHash": "d8d2597ec625478d5753942e92f62e52b8ca79e77e18633c372149f3b7033e55",
+  "edition": 20,
+  "date": 1711586171710,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hindu Temple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blue Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MAGA"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "I LOVE YOU"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

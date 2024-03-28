@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #37",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "imageHash": "71bb1e05bc87b036b51e171a200ab3791346f7dd284aae08b6138aa8a7385bd9",
+  "edition": 37,
+  "date": 1711586178918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cows in Old Ruins"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Wrinkled Dark Grey Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Purple"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "OG Miya Brown"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gasmask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "NO IMAGINATION NO BALLS"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Grab em by the Pussy In Bio"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

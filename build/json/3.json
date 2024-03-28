@@ -2,61 +2,61 @@
   "name": "Miyamaker #3",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/3.png",
-  "imageHash": "963f7ab4359204eccd9c55527dd9b76259f8e5e7fc64c0bd28a8cbafe3696eb6",
+  "imageHash": "50b19ba514651b84b17c8d700f04f3a90708f66c91f3f1c1e8517639dda34da2",
   "edition": 3,
-  "date": 1711577745963,
+  "date": 1711586163976,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Old World Construction"
+      "value": "Cows in Old Ruins"
     },
     {
       "trait_type": "Body",
-      "value": "Venom Glitché"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Raised Brow"
+      "value": "Squinted Bushy Brows"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "cigarette"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Tank"
+      "value": "Red Baggy Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "Light Blue Braided"
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brown Curly"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MIYA GOLD MOGGERS"
     },
     {
       "trait_type": "Hat",
-      "value": "Remilia Corp Cap"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Green"
+      "value": "Miyamaker Logo"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Wielding Electricity"
+      "value": "Samurai Sword with Blood"
     },
     {
       "trait_type": "Overlay",
-      "value": "You've been Loved by Christ"
+      "value": "Dredd Pirate Roberts"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Laser Eyes Red"
+      "value": "How Much I ACTUALLY love you"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #85",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/85.png",
+  "imageHash": "b9aaac44eaa3533cfd57b514cf511f8cef5917dbd8638c541e3f62989865edcc",
+  "edition": 85,
+  "date": 1711586201399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Room with Georgia Okeefe print"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Green Miya Jogger with Neon Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Pastel Green Emo Swoop"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Starberry Beret"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "You've been Loved by Christ"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Lightcode Glitch 01"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #19",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "imageHash": "c92dcb0764ca762fd455cd70bd26bee2fcc37713b8591cd0155fc5c1bc52674b",
+  "edition": 19,
+  "date": 1711586171283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rad Warzone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "80's Monochrome Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Brown V Cut Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Strawbie"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "have you hugged an emo kid today"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

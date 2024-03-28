@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #83",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/83.png",
+  "imageHash": "e1aac7eddb30cf0e5db839fa89c556a5e2effb34c53f115037f0eef7457e5d3b",
+  "edition": 83,
+  "date": 1711586200633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cathedral"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Feline Eyes Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Blue Neon"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "OG Miya Brown"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Sparkley Heart Glasses Blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MiyaMaker Pro"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun with Cyborg Hand"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Vaxxx Nazi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

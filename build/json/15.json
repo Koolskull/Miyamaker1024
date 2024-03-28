@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #15",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "imageHash": "87321c32e93768312a61068106a9b7f62d4b291c3c424f4d89779258532244fe",
+  "edition": 15,
+  "date": 1711586169387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Safe as Milk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hyper-dimensional eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Tank"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown Side Part"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Curls"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

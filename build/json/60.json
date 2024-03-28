@@ -1,0 +1,67 @@
+{
+  "name": "Miyamaker #60",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/60.png",
+  "imageHash": "e051fcc44723ae4015a94a0fa9488c6f58dab8670746140d2d1d709498806c2f",
+  "edition": 60,
+  "date": 1711586189535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Holographic Beverly HIlls"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mutant Gums"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Bangs M Cut Glitch 1"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blue Bob"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MIYA GOLD MOGGERS"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Kunty Karen"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "There Is No Exit Pump Nigga"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #24",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "imageHash": "5f76ab28a20282bc1e9339a5fb54eb83b3d7b0d3ded45fcd0209dbb30fee10ba",
+  "edition": 24,
+  "date": 1711586173368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Satoshi Dice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squinted Bushy Brows"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Miya Sweater"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mowhawk"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties Copy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

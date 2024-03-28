@@ -2,29 +2,25 @@
   "name": "Miyamaker #9",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/9.png",
-  "imageHash": "6429d1d1abbc32961f135ccde96f3eaa8180b5dfbb11cdec487efce4e7f692d7",
+  "imageHash": "1ca7015a9257821cb353660da613b40f48e5cb7869d26c42a404a821c1c86e30",
   "edition": 9,
-  "date": 1711577748471,
+  "date": 1711586166811,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Cyborg Sister and ascended sisters"
+      "value": "Q-Web Holographic"
     },
     {
       "trait_type": "Body",
-      "value": "Faded Wavy Glitch"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Half Open Eyes"
+      "value": "squinted"
     },
     {
       "trait_type": "Mouth",
-      "value": "Unhappy Frown"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -32,35 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Green Jogger with Lavendar Trim"
+      "value": "80's Monochrome Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Mowhawk"
+      "value": "Black Pigtails"
     },
     {
-      "trait_type": "Mask",
-      "value": "Heart Skull Digital Vision Mask"
+      "trait_type": "Hair Behind",
+      "value": "Brunette Wind Blown Long"
     },
     {
       "trait_type": "Hat",
-      "value": "Loved by Christ Psyop Skull"
+      "value": "Cake Slice"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Middle Finger"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Praise KEK"
+      "value": "Lightsaber Red"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "How Much I ACTUALLY love you"
+      "value": "You've been Loved by Christ"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

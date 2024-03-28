@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #31",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "imageHash": "b28c82532318945e7d350c888a28dc6cea116d3b2684abe7ddc403d61e5be069",
+  "edition": 31,
+  "date": 1711586176343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glitch Polygon Distortion"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Miya Sweater"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Peach Neon"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Satoshi Dice"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "YOu SO Wanna Be Gangsta Like US"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

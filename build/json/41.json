@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #41",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/41.png",
+  "imageHash": "1c63e71d8a213e77da7c949dacf873864231ac67e8a5dc48a43fc1c6a9ea22ca",
+  "edition": 41,
+  "date": 1711586180935,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art Center Faculty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Pleased"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Priest"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Curly"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "John Maus Pitiless Censors"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Born to RAD"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

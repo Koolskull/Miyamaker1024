@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #50",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/50.png",
+  "imageHash": "fae9d56c67596c3c3aff4022b2b359bfdb82126e63fc1458e4937f544b3e0811",
+  "edition": 50,
+  "date": 1711586185142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Q-Web Holographic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monochromatic Question Mark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Western Top"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde choppy cut"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Runescape Demon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

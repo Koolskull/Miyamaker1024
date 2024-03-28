@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #71",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/71.png",
+  "imageHash": "0e40aedecfa79ec92679c08db6528d41ac2a94e69fa43f6478d11c1fd03741f0",
+  "edition": 71,
+  "date": 1711586195042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Angelic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Faded Wavy Glitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Wrinkled Dark Grey Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Messy Short"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Long Straight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Open-source Software Extremist"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Calvin Piss"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Floyd cartoon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

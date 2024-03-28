@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #14",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "imageHash": "0c5c377cfaed2888f56085e73ad961e28033f3cba5936860b84642bf284306b8",
+  "edition": 14,
+  "date": 1711586168934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blossom"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hangry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pastel Green Emo Swoop"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Reaper DAW Scythe"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "cuteSMS"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

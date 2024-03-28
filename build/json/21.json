@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #21",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/21.png",
+  "imageHash": "68dba4a4b206a07fc7056282dc5cb7d99e4680f3aa103e32642a33a25f632ab3",
+  "edition": 21,
+  "date": 1711586172048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Japanese Goddess"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hangry"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Tie Up with Braids"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Curls"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Praise KEK"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

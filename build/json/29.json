@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #29",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "imageHash": "8c682fcef5cd4c065a7bb65a332f4bcddd819633b1f7717c7f66f783a36232c5",
+  "edition": 29,
+  "date": 1711586175545,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jean Mors Drumset"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Dark Green Miya Jogger with Neon Trim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sailor MXXN"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties Copy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Green"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Runescape Login"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "How Much I ACTUALLY love you"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

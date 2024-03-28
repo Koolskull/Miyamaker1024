@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #88",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/88.png",
+  "imageHash": "d3ab9a2e2412bfce9703a78cc9dc1ab720e48a1c9c585786cbd9d2a196c232de",
+  "edition": 88,
+  "date": 1711586202680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hollywood Blvd"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Jesus Glitch"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Milady Fluffy Cape"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Radbro Cut"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "cheatengine icon"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

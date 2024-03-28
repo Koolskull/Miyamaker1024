@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #35",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "imageHash": "a3343bc4a0391a0259fec46dafbbd33b9c86ef2821812ae3f53896fc09fe24a9",
+  "edition": 35,
+  "date": 1711586178054,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Texas Instrument Tracker"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad McChibi"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lil Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Intergalactic Star Dress"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Teal tied up with long bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Norse Blonde hair with Princess Braids"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "have you hugged an emo kid today"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Blah Blah Blah"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

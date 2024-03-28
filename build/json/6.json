@@ -2,29 +2,25 @@
   "name": "Miyamaker #6",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/6.png",
-  "imageHash": "a84f62f3cbb8dfdeb6b2cfa60244d0e8255403c12932baa4584392d423897385",
+  "imageHash": "c89a8582e007ff084378a861da06630be4efd8aa41ce584664411d601449f1c9",
   "edition": 6,
-  "date": 1711577747289,
+  "date": 1711586165269,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "No Trespassing"
+      "value": "Reaper DAW"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "closed 2"
+      "value": "SHOCKED"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
@@ -32,31 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "High Collar Winter Jacket"
+      "value": "Green Jogger with Lavendar Trim"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Bob"
+      "value": "Spiky Bangs M Cut Purple"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blue Bangs"
     },
     {
       "trait_type": "Hat",
-      "value": "Lawbster"
+      "value": "Aztec Warrior"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Red"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Axe"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Keep it Trashy"
+      "value": "Machine Gun"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Runescape Login"
+      "value": "100 PERCENT CUTE"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

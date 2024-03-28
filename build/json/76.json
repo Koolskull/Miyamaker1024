@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #76",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/76.png",
+  "imageHash": "cbfa57cf7ea4be49dff43849f295cb4276a05f1ab763b7f85bc0ef309e8eee94",
+  "edition": 76,
+  "date": 1711586197578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "I love you Binglee"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Hangry Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sailor MXXN"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Purple"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Brown V Cut Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Lightcode Glitch 00"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

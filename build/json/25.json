@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #25",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "imageHash": "ab014eaba500b58e6a4f30fc26908aaf349e220c35818b777c10b1db114a8753",
+  "edition": 25,
+  "date": 1711586173799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon City"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Ripped Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Purple"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde spiked Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MIYA GOLD MOGGERS"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Sparkle Cowgirl"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "I AM HOMOPHOBIC"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "You've been Loved by Christ"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

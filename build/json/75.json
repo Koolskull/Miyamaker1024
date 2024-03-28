@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #75",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/75.png",
+  "imageHash": "a25ab2b2db7fe69f727a9e2832f93a9214f4d4d11d97862922eab86a729f18bb",
+  "edition": 75,
+  "date": 1711586197104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Old World Construction"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg and Reptilian"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Light pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Bubblegum Bomber Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Milady Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

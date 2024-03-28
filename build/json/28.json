@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #28",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "imageHash": "d5242f4f4c20ebf821cbb52512995dd83fda4dc084815bc2d4dd4387b5771917",
+  "edition": 28,
+  "date": 1711586175127,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pastel ipad desktop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Neon Amoebas"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRILLZ"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Metal Shirt"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Brown V Cut Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mutant Octopus"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Kekistani Flag"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "YOu SO Wanna Be Gangsta Like US"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

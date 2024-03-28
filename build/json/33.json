@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #33",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/33.png",
+  "imageHash": "f9d3c9941367fad33d94dd7f5183adb2d7942f0ed2fd6bd37f83dee45098b990",
+  "edition": 33,
+  "date": 1711586177112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ornate Palace"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "srs"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Priest"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple M-shape Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Laughs in Goth"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

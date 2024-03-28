@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #16",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "imageHash": "e8b00bba2e10a7ffe2faa800ba3e55255b5645f5a836dbcc1d9396779a7a82c5",
+  "edition": 16,
+  "date": 1711586169828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geisha Sisters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "squinted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unhappy Frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Baggy Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Long Wavy"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miya Ranger"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

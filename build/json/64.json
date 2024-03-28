@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #64",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/64.png",
+  "imageHash": "7ab121521c332e8409881fbd92e614342de4d9dc5ca475ef111b173a9ab7e49b",
+  "edition": 64,
+  "date": 1711586191502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Salvation Army Grafiti 02"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile 1"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Puffy Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brunette Wind Blown Long"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Long Straight"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "MFiya Doom"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Jesus is King"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

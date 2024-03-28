@@ -1,0 +1,47 @@
+{
+  "name": "Miyamaker #10",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "imageHash": "f840b134d1ed45bc8f1c642a95ce7dd7bf4fbfb8d979e64e95137ae6ab944b13",
+  "edition": 10,
+  "date": 1711586167232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals in her Apartment"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Miya Maid"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Bob Green"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Long Straight"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Starberry Beret"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

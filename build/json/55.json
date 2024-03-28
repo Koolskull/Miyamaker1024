@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #55",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "imageHash": "c5d5aa1f9f225262bee6e899bd6b32fc537c50b61c35f5cad5de1863d026793a",
+  "edition": 55,
+  "date": 1711586187192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alien Spaceship"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "srs"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Miya Sweater"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Needle Gun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Born to RAD"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Terrorism Shennanigans"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

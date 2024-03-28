@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #82",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/82.png",
+  "imageHash": "6d05946ca20a9c854b6173ffa48f1281e2911421e786005f8bd590dbaf89dad2",
+  "edition": 82,
+  "date": 1711586200154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alien Spaceship"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown Wavy"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "OG Miya Brown"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Oni Mouth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown Chakra Download yellow"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Runescape Demon"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Su"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

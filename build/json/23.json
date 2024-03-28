@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #23",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "imageHash": "676f257d7453d9383805b9e62b0437ae4cf138d3a3fa9c8b12348b5ee8291238",
+  "edition": 23,
+  "date": 1711586172994,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geisha Sisters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aweee"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hangry"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Dress with Bee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Milady Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Dreadlocks with Green Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cyborg Cat Ears"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Samurai Sword with Blood"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "P0nch0mon"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "MVP"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #39",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/39.png",
+  "imageHash": "de2cdba23699d208122070edb75d434318fc78af219553dd260f61bfda0f36b0",
+  "edition": 39,
+  "date": 1711586179931,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Angel Portal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ascended Vril BlueGreen"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Preppy Milady Top"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple M-shape Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "I LOVE YOU"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

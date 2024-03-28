@@ -2,29 +2,25 @@
   "name": "Miyamaker #5",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/5.png",
-  "imageHash": "eb9a806de17bed8ac8f57e1e0b202a0c96d90cfb3b57060a934a5e0563f15643",
+  "imageHash": "7bc7447605ccbf7709bacf11149f97341dfe8aa6199ff1d9ddf748553dabc96d",
   "edition": 5,
-  "date": 1711577746862,
+  "date": 1711586164888,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Greenline Station"
+      "value": "Safe as Milk"
     },
     {
       "trait_type": "Body",
-      "value": "Ascended Vril Purple"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
-      "value": "Symbiote Slime"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "Unhappy Frown"
+      "value": "Red Lipstick"
     },
     {
       "trait_type": "Nose",
@@ -32,31 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Sailor MXXN"
+      "value": "Ripped Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Brunette Wind Blown Long"
+      "value": "Spiky Bangs M Cut Green"
     },
     {
-      "trait_type": "Mask",
-      "value": "Golden Silver Oni Mask"
+      "trait_type": "Hair Behind",
+      "value": "Blue Bob"
     },
     {
       "trait_type": "Hat",
-      "value": "NO IMAGINATION NO BALLS"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Green"
+      "value": "Aztec Warrior"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Stainless Steel Handgun"
+      "value": "Kpop Hand with Green Nails and Milady Tattoo"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "YOu SO Wanna Be Gangsta Like US"
+      "trait_type": "Overlay",
+      "value": "Look at my Lawyer Dawg"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

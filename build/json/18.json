@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #18",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "imageHash": "33ab8f22715e71ca2352af16c36b260e9eb06dac8c7ed4fd9c9b733f26e4fa9b",
+  "edition": 18,
+  "date": 1711586170884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Psykos Yung Lean"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Alien"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monochromatic Question Mark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lighter pink lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Robe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Straight Straight Bangs with Diamond Clip"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Brown V Cut Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Christs Army Helmet"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun with Cyborg Hand"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Vaxxx Nazi"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

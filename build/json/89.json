@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #89",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/89.png",
+  "imageHash": "ca36da187ee7a81d5e5634010a42a5f03df868ab38843ec175d2da3f3c5c6250",
+  "edition": 89,
+  "date": 1711586203097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Satoshi Dice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "srs"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Veilgazer ERC20"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Miyamaker #42",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "imageHash": "7f46e90b608c5734b52afff7089dacb6f04cb28bf1e4e054d0c1981faed7bd57",
+  "edition": 42,
+  "date": 1711586181417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquarium Glitch"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Warrior for Christ"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mildly grumpy"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pastel Green Emo Swoop"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde spiked Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Berachain Beanie"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "100 PERCENT CRAZY"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Laughs in Goth"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

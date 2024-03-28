@@ -2,29 +2,25 @@
   "name": "Miyamaker #8",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/8.png",
-  "imageHash": "77c167bee93e115f83a36fc8836446476813b6911954707f6debfd51c9493d11",
+  "imageHash": "c5c15ce4d8aeecfa3c605c1aea5f0c94aeda1b5e724d6bdb34d2e122c5e6e194",
   "edition": 8,
-  "date": 1711577748076,
+  "date": 1711586166266,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Meta Planet"
+      "value": "Vapor Train"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Accelerated"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Warrior for Christ"
+      "value": "Pink Heart Glimmer"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "mini smirk"
     },
     {
       "trait_type": "Nose",
@@ -32,35 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Bubblegum Bomber Jacket"
+      "value": "Neopolitan Hand Sewn Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple M-shape Bangs"
+      "value": "Short Spiky Bangs Bluegreen"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brown Curly"
     },
     {
       "trait_type": "Mask",
-      "value": "Xenomorph"
+      "value": "El Basico de Bastidas Luchador Mask"
     },
     {
       "trait_type": "Hat",
-      "value": "Right Pink Bow"
+      "value": "Miyamaker Great Again Red Trucker"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Purple"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "value": "Green Gameb0y Color"
     },
     {
       "trait_type": "Overlay",
-      "value": "Positive Energy Activates Constant Elevation - Sonny Seeza"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "SCHIZOFRENAC RACIST IS TALKING"
+      "value": "cuteSMS"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

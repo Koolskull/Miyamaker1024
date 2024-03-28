@@ -2,17 +2,13 @@
   "name": "Miyamaker #4",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/4.png",
-  "imageHash": "8a53f2ae8539ad0322bbd3b5ab4d40478dbbc647d014c1331971a987116d024c",
+  "imageHash": "64b96522d352a51a4ce767373f002e35b01a4281fb99bf046709f07bd717b73a",
   "edition": 4,
-  "date": 1711577746425,
+  "date": 1711586164467,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "wow she is LITERALLY me!"
+      "value": "Dark Angel Portal"
     },
     {
       "trait_type": "Body",
@@ -20,47 +16,39 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Hearts"
+      "value": "Green Raised Brow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Hangry"
+      "value": "Red Lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Lavender Floral Quincenera Dress"
+      "value": "Western Jean Sleeveless"
     },
     {
       "trait_type": "Hair",
-      "value": "MEssy Green Braids"
+      "value": "Brunette Wind Blown Long"
     },
     {
-      "trait_type": "Mask",
-      "value": "Sparkley Heart Glasses Green"
+      "trait_type": "Hair Behind",
+      "value": "Black Straight Straight Bangs with Diamond Clip"
     },
     {
       "trait_type": "Hat",
-      "value": "Princess Protection Cow Cap"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Samurai Sword with Blood"
+      "value": "Chinese Royalty"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Middle Finger"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "You Broke The CYcle"
+      "value": "Master Chief Holding Money"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Computer Love"
+      "value": "Holy Bible"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

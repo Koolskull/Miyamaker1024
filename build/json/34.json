@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #34",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "imageHash": "08c5741bf09318f9311b32b342b64f838b84c1d9139616c933984e4a368a36e4",
+  "edition": 34,
+  "date": 1711586177639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MiyaUniverse"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed 2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Sailor MXXN"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Cyber cut Bangs light orange to dark red gradient"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Norse Blonde hair with Princess Braids"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Kunty Karen"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #30",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "imageHash": "d6498b324354b2f7847a75248b0522a665dc7a1bd3979d7f14d4f2ac8389aabc",
+  "edition": 30,
+  "date": 1711586175977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "If you love me why did you leave"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Raised Brow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Dress with Bee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Lady with Spiked Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun with Cyborg Hand"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Kekistani Flag"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Computer Love"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

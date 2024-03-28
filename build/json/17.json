@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #17",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "imageHash": "e7f4ed71481e9d4355b51ec03bdd275400f74915f803150f04f757012a9e90d6",
+  "edition": 17,
+  "date": 1711586170417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Q-Web Holographic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Christs Cyber Army"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Spiky Bangs Bluegreen"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Norse Blonde hair with Princess Braids"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Gangsta Sanic"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

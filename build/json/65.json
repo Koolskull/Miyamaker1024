@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #65",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/65.png",
+  "imageHash": "ad9886cca52fcefe9b91ba7deb1c4d6b305623836069e1880415ae6eacc9a580",
+  "edition": 65,
+  "date": 1711586192039,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Satoshi Dice"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Dress with Bee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Teal tied up with long bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Spiky Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miyamaker Logo"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Stainless Steel Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Kekistani Flag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

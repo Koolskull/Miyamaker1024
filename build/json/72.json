@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #72",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/72.png",
+  "imageHash": "5b3a490454c78d596e383d82e2c80617d559c5e51ddeab725fa5696b3d7f267e",
+  "edition": 72,
+  "date": 1711586195548,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rad Warzone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Tone"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unhappy Frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Space Communist"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Brown Wavy"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brown Long Wavy"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Heart Skull Digital Vision Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Reptile Hand with Eye Palm"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Lightcode Glitch 06"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -2,61 +2,61 @@
   "name": "Miyamaker #7",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/7.png",
-  "imageHash": "926106268b713a2ed3e9e11d2d766d9cb06a771f2ec45fa7fe6915ad94e9d6e9",
+  "imageHash": "125f3bb7fc06f8aa4bdf2f97573e772bfe322fbadee672a3404a6f030e6d3d46",
   "edition": 7,
-  "date": 1711577747657,
+  "date": 1711586165791,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Radcat Ghostrider with Skull Bus"
+      "value": "Q-Web Holographic"
     },
     {
       "trait_type": "Body",
-      "value": "Corrupt File Purple"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
-      "value": "Alien"
+      "value": "Closed Pleased"
     },
     {
       "trait_type": "Mouth",
-      "value": "Hangry"
+      "value": "Big smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Western Jean Sleeveless"
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Spiky Bangs Pink"
+      "value": "Short Bob Green"
     },
     {
-      "trait_type": "Mask",
-      "value": "MIYA GOLD MOGGERS"
+      "trait_type": "Hair Behind",
+      "value": "Light Brown Choppy Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chinese Royalty"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Blue"
+      "value": "Lightsaber Purple"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Master Chief Holding Money"
+      "value": "Reaper DAW Scythe"
     },
     {
       "trait_type": "Overlay",
-      "value": "100 PERCENT CUTE"
+      "value": "SCHIZOFRENAC RACIST IS TALKING"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Classy Solana Coins"
+      "value": "Grab em by the Pussy In Bio"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

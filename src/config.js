@@ -40,22 +40,24 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 90,
     namePrefix: "Miyamaker", // Use to add a name to Metadata `name:`
     layersOrder: [
-      { name: "Background" },
+      { name: "z-3,Background" },
       { name: "Body" },
       { name: "Eyes" },
       { name: "Mouth" },
       { name: "Nose" },
       { name: "Top" },
       { name: "Hair" },
+      { name: "z-1,Hair Behind"},
       { name: "Mask" },
       { name: "Hat" },
-      { name: "Left Arm" },
-      { name: "Right Arm" },
-      { name: "Overlay" },
-      { name: "Overlay 2" },
+      { name: "z-2,Hat" },
+      { name: "z3,Left Arm" },
+      { name: "z3,Right Arm" },
+      { name: "z5,Overlay" },
+      { name: "z4,Overlay 2" },
     ],
   },
   // {
@@ -108,7 +110,28 @@ const incompatible = {
  * further in the stack
  */
 const forcedCombinations = {
-  // floral: ["MetallicShades", "Golden Sakura"],
+  Hair: ["Black Straight Straight Bangs with Diamond Clip", "Black Straight Straight Bangs with Diamond Clip"],
+  Hair: ["Blonde Crazy Ties Copy","Blonde Crazy Ties Copy"],
+  Hair: ["Blonde Crazy Ties","Blonde Crazy Ties"],
+  Hair: ["Blonde Curls","Blonde Curls"],
+  Hair: ["Blonde spiked Bangs","Blonde spiked Bangs"],
+  Hair: ["Blue Bangs","Blue Bangs"],
+  Hair: ["Blue Bob","Blue Bob"],
+  Hair: ["Brown Curly","Brown Curly"],
+  Hair: ["Brown Long Wavy","Brown Long Wavy"],
+  Hair: ["Brunette Long Straight","Brunette Long Straight"],
+  Hair: ["Brunette Wind Blown Long","Brunette Wind Blown Long"],
+  Hair: ["Dreadlocks with Green Bangs","Dreadlocks with Green Bangs"],
+  Hair: ["Light Brown Choppy Bangs","Light Brown Choppy Bangs"],
+  Hair: ["Long Brown V Cut Bangs","Long Brown V Cut Bangs"],
+  Hair: ["Long Dreads","Long Dreads"],
+  Hair: ["Long Norse Blonde hair with Princess Braids","Long Norse Blonde hair with Princess Braids"],
+  Hair: ["McChibi Sailor Braid Buns","McChibi Sailor Braid Buns"],
+  Hair: ["OG Miya Brown","OG Miya Brown"],
+  Hair: ["Pastel Green Emo Swoop","Pastel Green Emo Swoop"],
+  Hair: ["Spiky Brown","Spiky Brown"],
+  Hat: ["Aztec Warrior","Aztec Warrior"],
+  Hat: ["Chinese Royalty","Chinese Royalty"],
 };
 
 /**

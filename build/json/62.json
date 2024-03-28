@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #62",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/62.png",
+  "imageHash": "b9aa0c2335978149cb84a7db74aa62d609510dae2dd33ca47367731a578e0006",
+  "edition": 62,
+  "date": 1711586190593,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "I love you Binglee"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mexican"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half Open Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Shiny Blush"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Milady Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blue Bob"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Please Be Patient with me im soooooooooo"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Your Opinion in the trash"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

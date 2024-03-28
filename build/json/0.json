@@ -2,53 +2,53 @@
   "name": "Miyamaker #0",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/0.png",
-  "imageHash": "262fcb4a81c344f123f9e6719e41b43cb3ae52b120bfa70c0b449bfcef875301",
+  "imageHash": "5dd93a2e03126a9707a2981b5fcdc43e84e5d05f2d2659ea07536ec18251ad4c",
   "edition": 0,
-  "date": 1711577744677,
+  "date": 1711586162708,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Background"
-    },
-    {
       "trait_type": "Background",
-      "value": "Q-Web Holographic"
+      "value": "Mugs Ford Wagon"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Surprised"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "McChibi Pink Shirt"
+      "value": "Bubblegum Skull Army Spacesuit"
     },
     {
       "trait_type": "Hair",
-      "value": "Mowhawk"
+      "value": "Spiky Bangs M Cut Green"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Brunette Long Straight"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Heart Skull Digital Vision Mask"
     },
     {
       "trait_type": "Hat",
-      "value": "Santa Hat"
+      "value": "Aztec Warrior"
     },
     {
       "trait_type": "Overlay",
-      "value": "NIgger Mode - ON"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Holy Bible"
+      "value": "They Think im Dora the way my Bag Talk"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

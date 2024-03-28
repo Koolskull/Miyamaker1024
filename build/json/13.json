@@ -1,0 +1,59 @@
+{
+  "name": "Miyamaker #13",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "imageHash": "a124b0245db65f2d90ee66e379645a0a52713f8de388c8d5e7ed17f364b8102f",
+  "edition": 13,
+  "date": 1711586168434,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Y2K Browser"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Glitch Aura 3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Heart Glimmer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini frown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Floral Dress with Bee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Straight"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blue Bob"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Middle Finger"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Fact Checked"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Kekistani Flag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

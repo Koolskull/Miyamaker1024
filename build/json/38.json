@@ -1,0 +1,51 @@
+{
+  "name": "Miyamaker #38",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/38.png",
+  "imageHash": "db2e3da0f22fec9cde9435637775dc997177f7c56e3d1735b7f06e7aebe6d413",
+  "edition": 38,
+  "date": 1711586179373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Salvation Army Grafiti 01"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Hearts"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mini smirk"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Embroidered Miya Baseball Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anime Purple"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Blonde Crazy Ties Copy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Laser Eyes Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

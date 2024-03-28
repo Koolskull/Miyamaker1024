@@ -1,0 +1,55 @@
+{
+  "name": "Miyamaker #32",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "imageHash": "e9446f04c87bee47ce3bc991270019f08283a83528418de3015efa4acf270c22",
+  "edition": 32,
+  "date": 1711586176683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hemi Sync"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smile eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose 1"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Baggy Tee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Purple Lady with Spiked Bangs"
+    },
+    {
+      "trait_type": "Hair Behind",
+      "value": "Long Brown V Cut Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gasmask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MiyaMaker Pro"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Calvin Piss"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
