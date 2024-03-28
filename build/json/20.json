@@ -2,13 +2,13 @@
   "name": "Miyamaker #20",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/20.png",
-  "imageHash": "0da4e4ca6bd8199090cf3a32e01d2ebb39378352ea755cfbaf4b9f6a5cd127ec",
+  "imageHash": "f7c439c55dab7dd0b2b373e0ee6c5c1eb2ec2de9d33403fede0123c5c0787c85",
   "edition": 20,
-  "date": 1711655862924,
+  "date": 1711656149955,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Glitch Polygon Distortion"
+      "value": "Bonkler 120"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Alien"
+      "value": "Half Open Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Red Lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Bubblegum Bomber Jacket"
+      "value": "Christs Cyber Army"
     },
     {
       "trait_type": "Hair",
-      "value": "Green Milady Bangs"
+      "value": "Choppy Redhead"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Sparkley Heart Glasses Green"
     },
     {
       "trait_type": "Hat",
-      "value": "Dragon Princess Skull Crown"
+      "value": "Miyamaker Logo"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Stainless Steel Handgun"
+      "value": "Middle Finger"
     },
     {
       "trait_type": "Overlay",
-      "value": "Veilgazer ERC20"
+      "value": "Kekistani Flag"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "I LOVE YOU"
+      "value": "This Holy SON OF A VIRGIN"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

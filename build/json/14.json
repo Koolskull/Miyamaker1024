@@ -2,21 +2,21 @@
   "name": "Miyamaker #14",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/14.png",
-  "imageHash": "6295c0d3ef33215681067aeac0e47fb9f600a889cd582a369aea770a6df7672d",
+  "imageHash": "e10c334e2aedf4fb4f2d02887d153ee41ad380f334c69cab9528f2a80018063f",
   "edition": 14,
-  "date": 1711655860773,
+  "date": 1711656147428,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "CPS Sells Kids"
+      "value": "wow she is LITERALLY me!"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Feline Eyes Yellow"
+      "value": "Button Eyed"
     },
     {
       "trait_type": "Mouth",
@@ -24,27 +24,35 @@
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Ripped Shirt"
+      "value": "McChibi Pink Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Red side cut bangs"
+      "value": "Radbro Cut Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miya Maker Great Again"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Master Chief Holding Money"
+      "value": "Golden Axe"
     },
     {
       "trait_type": "Overlay",
-      "value": "Barron Trump Naruto AMV"
+      "value": "They Think im Dora the way my Bag Talk"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Your Opinion in the trash"
+      "value": "Gangsta Sanic"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Tamales"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

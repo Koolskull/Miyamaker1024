@@ -2,21 +2,21 @@
   "name": "Miyamaker #35",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/35.png",
-  "imageHash": "71f137050f42b0756c9eb62e77e150c43fa3cf1c04f44e562568298de4d6f1f8",
+  "imageHash": "e219224d7a4f341614f8d7ec791a1e248eae541e36eb834cb375d0f44af8e64d",
   "edition": 35,
-  "date": 1711655868774,
+  "date": 1711656156317,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cybercity"
+      "value": "Portland Riverfront"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Ascended Vril BlueGreen"
     },
     {
       "trait_type": "Eyes",
-      "value": "Monochromatic Question Mark"
+      "value": "Closed Pleased"
     },
     {
       "trait_type": "Mouth",
@@ -24,27 +24,31 @@
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Red Baggy Tee"
+      "value": "Overalls"
     },
     {
       "trait_type": "Hair",
       "value": "Blue Bob"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Green"
+      "trait_type": "Hat",
+      "value": "Vultures"
     },
     {
-      "trait_type": "Overlay",
-      "value": "I LOVE YOU"
+      "trait_type": "Right Arm",
+      "value": "Master Chief Holding Money"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Benner Cycle 1875"
+      "value": "I AM HOMOPHOBIC"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Lightcode Glitch 05"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

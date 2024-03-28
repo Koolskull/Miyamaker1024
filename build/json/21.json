@@ -2,45 +2,45 @@
   "name": "Miyamaker #21",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/21.png",
-  "imageHash": "a4056be5bd1b7c2f56d70828e9318f87b7d08d9c690763fee7ec68f31cc0bf61",
+  "imageHash": "ef1bc62ce551f6f48a243575e6f52eddb3bff057abbb6fecc8a4dc486da07542",
   "edition": 21,
-  "date": 1711655863313,
+  "date": 1711656150278,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "ComicStudio Glitch"
+      "value": "Corona Virus Stan"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Accelerated"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Green Warrior for Christ"
     },
     {
       "trait_type": "Mouth",
-      "value": "mildly grumpy"
+      "value": "Stitched Shut"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Cyber Gladiator Pink"
+      "value": "Blue Embroidered Mexican Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight"
+      "value": "Asymmetrical impossible Cornrows"
     },
     {
       "trait_type": "Hat",
-      "value": "Period Bomb TV"
+      "value": "Alien demon skull hat"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Dredd Pirate Roberts"
+      "value": "Computer Love"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

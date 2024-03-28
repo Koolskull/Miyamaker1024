@@ -2,13 +2,13 @@
   "name": "Miyamaker #16",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/16.png",
-  "imageHash": "1a1829ce90db934c7e71e3cb246b48adabb97f3d88c2272d2aefedd3ffee93ed",
+  "imageHash": "5c4d579854cec82036bf5808865a32aad1d527be7cc6c091a49e02305b4e9fee",
   "edition": 16,
-  "date": 1711655861391,
+  "date": 1711656148208,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Safe as Milk"
+      "value": "Abandoned Building"
     },
     {
       "trait_type": "Body",
@@ -16,43 +16,39 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Raised Brow"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "Light pink lipstick"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Pink Preppy Milady Top"
+      "value": "Priest"
     },
     {
       "trait_type": "Hair",
-      "value": "MEssy Green Braids"
+      "value": "Short Bob Pink Corrupted Glitch"
     },
     {
       "trait_type": "Mask",
-      "value": "MFiya Doom"
+      "value": "El Basico de Bastidas Luchador Mask"
     },
     {
       "trait_type": "Hat",
-      "value": "Miyamaker Logo"
+      "value": "KOOLSKULL LOGO"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Red"
+      "value": "Lightsaber Purple"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "Blood Splatter"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "BartMoney"
+      "trait_type": "Right Arm",
+      "value": "Needle Gun"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

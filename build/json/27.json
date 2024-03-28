@@ -2,25 +2,25 @@
   "name": "Miyamaker #27",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/27.png",
-  "imageHash": "f98c55ae3db1b177a3116b5a6b2505cb056486311014d0cd1a8ee211438feb56",
+  "imageHash": "22636b6b8d65aa9a19efbd99a1637f4c8d902c309322f84f82103352e0e29803",
   "edition": 27,
-  "date": 1711655865547,
+  "date": 1711656153174,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "No Trespassing"
+      "value": "Radbro Denver Arson"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Feline Eyes Yellow"
+      "value": "Brown Hearts"
     },
     {
       "trait_type": "Mouth",
-      "value": "srs"
+      "value": "smile 1"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Leather Jacket"
+      "value": "Wrinkled Dark Grey Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Bob"
+      "value": "Long Brown V Cut Bangs"
     },
     {
-      "trait_type": "Hat",
-      "value": "Crown Chakra Download Green"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "trait_type": "Overlay",
+      "value": "Terry Webcam"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Tamales"
+      "value": "Radcat"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "have you hugged an emo kid today"
+      "value": "Ganesh Swastika"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

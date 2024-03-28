@@ -2,25 +2,25 @@
   "name": "Miyamaker #36",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/36.png",
-  "imageHash": "ba08c4247a1a17417d23158de232e6eba07e65c120bc2d12706470cf102ee347",
+  "imageHash": "28f1cf67e475225c24a24da5d835331e5d3898923ce01bcb4cf18b5165dc3f02",
   "edition": 36,
-  "date": 1711655869118,
+  "date": 1711656156808,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Beeftrix"
+      "value": "Radbro Denver Arson"
     },
     {
       "trait_type": "Body",
-      "value": "Glitch Aura 4"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smile eyes"
+      "value": "Half Open Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Light pink lipstick"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
@@ -32,19 +32,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Short Brown Wavy"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Halo"
+      "value": "Short Spiky Bangs Pink"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Lightsaber Purple"
+      "value": "Lightsaber Blue"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Stainless Steel Handgun"
+      "trait_type": "Overlay 2",
+      "value": "This Holy SON OF A VIRGIN"
     },
     {
       "trait_type": "Overlay 3",

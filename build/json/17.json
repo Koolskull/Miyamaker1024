@@ -2,13 +2,13 @@
   "name": "Miyamaker #17",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/17.png",
-  "imageHash": "0768973e0f1d10b0f4670662f0a693b711b7990d3d39e15d119f77d8100e2df3",
+  "imageHash": "aa964cd9df047bf40b609722fdc15cb8fe4c8613c3f8dfa2ccc19fb1c0c2e1b5",
   "edition": 17,
-  "date": 1711655861784,
+  "date": 1711656148534,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Psykos Yung Lean"
+      "value": "Rad Warzone"
     },
     {
       "trait_type": "Body",
@@ -16,35 +16,31 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Lipstick"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Blue Printed Winter Coat"
+      "value": "Pink Jean Sleeveless Vest with Sharp Collar"
     },
     {
       "trait_type": "Hair",
-      "value": "Pastel Squiggel Blue"
+      "value": "Black Pigtails"
     },
     {
       "trait_type": "Mask",
-      "value": "MIYA GOLD MOGGERS"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "They Think im Dora the way my Bag Talk"
+      "value": "Cyberskull VR Headset"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Kekistani Flag"
+      "value": "Born to RAD"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

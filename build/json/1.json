@@ -2,9 +2,9 @@
   "name": "Miyamaker #1",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/1.png",
-  "imageHash": "c97ef0bff5621a21f60fdb7a61106340b0ab3a3583684091ae59dc8bad53fec3",
+  "imageHash": "6cdf799075bfce748090ed8663b6438453ade5bd21164b8cd708b66897ddd646",
   "edition": 1,
-  "date": 1711655855704,
+  "date": 1711656141715,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Raised Brow"
+      "value": "Brown Surprised"
     },
     {
       "trait_type": "Mouth",
-      "value": "Stitched Shut"
+      "value": "Big smile"
     },
     {
       "trait_type": "Nose",
@@ -28,11 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Pink Intergalactic Star Dress"
+      "value": "80's Monochrome Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight"
+      "value": "Short Bob Light Blonde"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Starberry Beret"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Purple"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Holy Bible"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Large Amounts of Money"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "I LOVE YOU"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

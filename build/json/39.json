@@ -2,25 +2,25 @@
   "name": "Miyamaker #39",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/39.png",
-  "imageHash": "bc12eae5bf61dd9354a426a24be557507914355637b43daf4c09694927476149",
+  "imageHash": "5c1d5aadf3b379cb7841d66b2f248255af788ead6c8852ba1adfb68a79c46a40",
   "edition": 39,
-  "date": 1711655870337,
+  "date": 1711656157972,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blossom"
+      "value": "Satoshi Dice"
     },
     {
       "trait_type": "Body",
-      "value": "Aztec Warrior"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Heavy Metal Clown"
+      "value": "Reptilian Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Big smile"
     },
     {
       "trait_type": "Nose",
@@ -28,19 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Green Jogger with Lavendar Trim"
+      "value": "80's Monochrome Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Curly"
+      "value": "Spiky Bangs M Cut Red"
     },
     {
       "trait_type": "Hat",
-      "value": "Remilia Corp Cap"
+      "value": "Naval Officer"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Large Amounts of Money"
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Runescape Login"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

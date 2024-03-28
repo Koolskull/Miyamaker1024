@@ -2,17 +2,17 @@
   "name": "Miyamaker #28",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/28.png",
-  "imageHash": "51c3528af9244e32ae02a8397bea7e9ea55a3691176f5e1493f087b6148f3a88",
+  "imageHash": "329974e01daea70dfc0f0d48c781bf8ba4071a1072804aeb8cc33ad9beb3d589",
   "edition": 28,
-  "date": 1711655865982,
+  "date": 1711656153542,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Selfie Glitch"
+      "value": "Welcome to MSN"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Purple Puffy Jacket"
+      "value": "80's Monochrome Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight"
+      "value": "Green Milady Bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Miya Ranger"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Samurai Sword with Blood"
+      "value": "Master Chief Cigar"
     },
     {
       "trait_type": "Overlay",
-      "value": "YOu SO Wanna Be Gangsta Like US"
+      "value": "They Think im Dora the way my Bag Talk"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "have you hugged an emo kid today"
+      "value": "YOu SO Wanna Be Gangsta Like US"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,45 +2,49 @@
   "name": "Miyamaker #9",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/9.png",
-  "imageHash": "913cb07ffc5e49602d9559c3d01ca6b776bb6e34ba9e46b338e52fd7148082de",
+  "imageHash": "978b200c01f6a162b2407afaa9ea4fc3b66852042dfe7f9a7b9c346ab44881ac",
   "edition": 9,
-  "date": 1711655858824,
+  "date": 1711656145185,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink sky in Baldwin Hills"
+      "value": "I dont want to marry for convenience"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Jesus Glitch"
+      "value": "Holographic Internal Thrash"
     },
     {
       "trait_type": "Eyes",
-      "value": "closed 2"
+      "value": "Green Warrior for Christ"
     },
     {
       "trait_type": "Mouth",
-      "value": "Melting Fang Toothed"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Neopolitan Hand Sewn Tee"
+      "value": "Blue Printed Winter Coat"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Pigtails"
+      "value": "Long Norse Blonde hair with Princess Braids"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Stainless Steel Handgun"
+      "trait_type": "Left Arm",
+      "value": "Green Gameb0y Color"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Computer Love"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Retardio Cigarettes"
+      "value": "Blood Splatter"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

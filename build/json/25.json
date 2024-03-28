@@ -2,13 +2,13 @@
   "name": "Miyamaker #25",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/25.png",
-  "imageHash": "c083b8e21ec18f8211392642b955a644ee5fc937cd2ecb5cbe852f83091fcc0d",
+  "imageHash": "60870f9a5452e5eef436c049fd3c27baa211f387cd336a39e9f8c85aa71022be",
   "edition": 25,
-  "date": 1711655864853,
+  "date": 1711656152256,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Databent Glitch Landscape"
+      "value": "Luis playing Drums with Interdimensional Xenomorph"
     },
     {
       "trait_type": "Body",
@@ -16,31 +16,31 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Heart Eyes"
+      "value": "Cuborg lazer eye"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Dark Green Miya Jogger with Neon Trim"
+      "value": "White Milady Dress with Pink Bow"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Brown Wavy"
+      "value": "Brunette Long Straight"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Purple"
+      "trait_type": "Hat",
+      "value": "Crown Chakra Download Purple Pink"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Needle Gun"
+      "trait_type": "Overlay 2",
+      "value": "Runescape Demon"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

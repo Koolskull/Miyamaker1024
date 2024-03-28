@@ -2,45 +2,45 @@
   "name": "Miyamaker #24",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/24.png",
-  "imageHash": "dcbbb9f6b085b81492d89547ca1759103effe1c71809944172c7588004f37e51",
+  "imageHash": "c014b90c21e679278a3fa859f9b45488bd0c8ebdb728a58f42d4466e7d7bf414",
   "edition": 24,
-  "date": 1711655864507,
+  "date": 1711656151787,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "I love you Binglee"
+      "value": "La Brea Ramen Milady Tagger"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Green Warrior for Christ"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "mildly grumpy"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "McChibi Pink Shirt"
+      "value": "Pink Milady Fluffy Cape"
     },
     {
       "trait_type": "Hair",
-      "value": "Pastel Squiggel Pink"
+      "value": "Short Bob Blue Neon"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Wielding Electricity"
+      "trait_type": "Hat",
+      "value": "fuzzy bucket hat"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "Laughs in Goth"
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,57 +2,57 @@
   "name": "Miyamaker #37",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/37.png",
-  "imageHash": "e5d7a7f372c8e32e0a6a609eb5fea385f3223cd9a2eb66e614a89f7d9fbe8d77",
+  "imageHash": "821a63db3b38257a9961151ae02fe271d8e14dd98064f6f2eb31f81d64ca49eb",
   "edition": 37,
-  "date": 1711655869494,
+  "date": 1711656157218,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Japanese Goddess"
+      "value": "HEA Head Heaven"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Green"
     },
     {
       "trait_type": "Eyes",
-      "value": "squinted"
+      "value": "Brown Surprised"
     },
     {
       "trait_type": "Mouth",
-      "value": "mini frown"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Bubblegum Skull Army Spacesuit"
+      "value": "Blue Printed Winter Coat"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Curly"
+      "value": "Blue Teal tied up with long bangs"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "MAGA"
     },
     {
       "trait_type": "Left Arm",
-      "value": "Golden Machine Gun with Cyborg Hand"
+      "value": "Master Chief Cigar"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "value": "Golden Dagger"
     },
     {
       "trait_type": "Overlay",
-      "value": "Kekistani Flag"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Ancient Swastika Throne"
+      "value": "yeah I get LAID"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "12311999 y2k Buy"
+      "value": "Su"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

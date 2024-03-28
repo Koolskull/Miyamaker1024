@@ -2,13 +2,13 @@
   "name": "Miyamaker #0",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/0.png",
-  "imageHash": "33238047cd061c8c5cde8b53543a8d3e170fa69ee7e179483d9635315a7a141e",
+  "imageHash": "65791e0abbef1abc98bdb17569d4e9ef94b7d09231441f89e87c14569dfeafdb",
   "edition": 0,
-  "date": 1711655855314,
+  "date": 1711656141282,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Hallway B&W"
+      "value": "Blackface Trudeau"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Monochromatic Question Mark"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "smirk"
+      "value": "mini frown"
     },
     {
       "trait_type": "Nose",
@@ -28,19 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Lavender Floral Quincenera Dress"
+      "value": "Orange Robe"
     },
     {
       "trait_type": "Hair",
-      "value": "Teal Messy Center part with Skull Bows"
+      "value": "Black Tie Up with Braids"
     },
     {
       "trait_type": "Hat",
-      "value": "Please Be Patient with me im soooooooooo"
+      "value": "Period Bomb TV"
     },
     {
-      "trait_type": "Overlay 3",
-      "value": "Blah Blah Blah"
+      "trait_type": "Right Arm",
+      "value": "Middle Finger"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "The Hanging In there Shiro Star"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Tamales"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

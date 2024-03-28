@@ -2,53 +2,57 @@
   "name": "Miyamaker #5",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/5.png",
-  "imageHash": "d12e1ceba27ce4b77b887a821fffa3289c064628c174e6cc7f72356c3aabb0df",
+  "imageHash": "7e2356295447a7b386a5bf1394a6526f984b6415feff918b0cdb19dc21726586",
   "edition": 5,
-  "date": 1711655857289,
+  "date": 1711656143397,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Rad Warzone"
+      "value": "Geisha Sisters"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Blue Alien"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Green Warrior for Christ"
     },
     {
       "trait_type": "Mouth",
-      "value": "Light pink lipstick"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Floral Dress with Bee"
+      "value": "Overalls"
     },
     {
       "trait_type": "Hair",
-      "value": "Faded Brown Spikey Short"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Oni Mouth"
+      "value": "Anime Purple"
     },
     {
       "trait_type": "Hat",
-      "value": "Lawbster"
+      "value": "Mastermind"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Samurai Sword with Blood"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Stainless Steel Handgun"
+      "value": "Samurai Sword with Blood"
     },
     {
       "trait_type": "Overlay",
-      "value": "Computer Love"
+      "value": "Wikileaks"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "I LOVE YOU"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

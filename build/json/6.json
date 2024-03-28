@@ -2,25 +2,25 @@
   "name": "Miyamaker #6",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/6.png",
-  "imageHash": "745f98850d9ec81066bd1c1b2fdc583f632f62ccf50bbed7499a0cbb14ba1e0c",
+  "imageHash": "8905a59dd378bf29e89b63d041dfecf013cf96ade27e6b8a3ce65fd1e97fcfb1",
   "edition": 6,
-  "date": 1711655857758,
+  "date": 1711656143825,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Angel Portal"
+      "value": "MiyaMeme"
     },
     {
       "trait_type": "Body",
-      "value": "Psychedelic Purple"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Squinted Bushy Brows"
+      "value": "Feline Eyes Yellow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
@@ -28,19 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Executive Suit"
+      "value": "Floral Dress with Bee"
     },
     {
       "trait_type": "Hair",
-      "value": "Chinese Royalty"
+      "value": "Purple M-shape Bangs"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "This Holy SON OF A VIRGIN"
+      "trait_type": "Hat",
+      "value": "Records Ad Nauseam"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Positive Energy Activates Constant Elevation - Sonny Seeza"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "Laser Eyes Purple"
+      "value": "Classy Solana Coins"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

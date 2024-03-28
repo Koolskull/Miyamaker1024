@@ -2,45 +2,49 @@
   "name": "Miyamaker #15",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/15.png",
-  "imageHash": "b477bf1291c3977f0b04d7ea11d6b8e164bbd8d66ae319ba3099f595eb02f4e0",
+  "imageHash": "7de6a3d98aa09b8d19262d3ec922e6a106f459ae4bdeefcd5a56cfcfafc4ab45",
   "edition": 15,
-  "date": 1711655861014,
+  "date": 1711656147852,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tokyo B&W"
+      "value": "MOG Grandma"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Blue Alien"
     },
     {
       "trait_type": "Eyes",
-      "value": "Aweee"
+      "value": "Monochromatic Question Mark"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Floral Dress with Bee"
+      "value": "Miya Metal Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "OG Miya Brown"
+      "value": "McChibi Sailor Braid Buns"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cyborg Cat Ears"
     },
     {
       "trait_type": "Right Arm",
-      "value": "Golden Handgun"
+      "value": "Reaper DAW Scythe"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Classy Solana Coins"
+      "value": "How Much I ACTUALLY love you"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

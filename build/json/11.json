@@ -2,25 +2,25 @@
   "name": "Miyamaker #11",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/11.png",
-  "imageHash": "95f20a83c8baf1f545a997dd593ad971176dc7d7f3bff9afe7ca2f534c8e891d",
+  "imageHash": "c9fbd58f3713247df0e77acca115244f9e0dc5859f40510268b6aeaadea4c966",
   "edition": 11,
-  "date": 1711655859602,
+  "date": 1711656146039,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Satoshi Dice"
+      "value": "MOG Grandma"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Alien"
+      "value": "Brown Hearts"
     },
     {
       "trait_type": "Mouth",
-      "value": "Mutant Gums"
+      "value": "mildly grumpy"
     },
     {
       "trait_type": "Nose",
@@ -28,19 +28,31 @@
     },
     {
       "trait_type": "Top",
-      "value": "Priest"
+      "value": "Overalls"
     },
     {
       "trait_type": "Hair",
-      "value": "MEssy Green Braids"
+      "value": "Black Tie Up with Braids"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Cyberskull VR Headset"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Aztec Warrior"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Old Cellphone"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Wikileaks"
+      "value": "Benner Cycle 1875"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "Laughs in Goth"
+      "value": "cuteSMS"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

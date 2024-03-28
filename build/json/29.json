@@ -2,49 +2,45 @@
   "name": "Miyamaker #29",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/29.png",
-  "imageHash": "44ae027ee5113c65ca6873071b49340868d528d68c2a1a803f5af0f6bff7c0f1",
+  "imageHash": "8c23d5c965998eb5ad793c30e2497e707f678016be604c6ee0fbeced4164553a",
   "edition": 29,
-  "date": 1711655866408,
+  "date": 1711656153958,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Meditating on the Healing Web by DSMP - deepstatemappingproject<dot>com"
+      "value": "Ganesh"
     },
     {
       "trait_type": "Body",
-      "value": "Ascended Vril BlueGreen"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
-      "value": "squinted"
+      "value": "Hyper-dimensional eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Red Lipstick"
+      "value": "GRILLZ"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Floral Western Top"
+      "value": "Western Jean Sleeveless"
     },
     {
       "trait_type": "Hair",
-      "value": "OG Miya Brown"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Green Gameb0y Color"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Golden Dagger"
+      "value": "Brunette Wind Blown Long"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Tamales"
+      "value": "Grab em by the Pussy In Bio"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Terry Webcam"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

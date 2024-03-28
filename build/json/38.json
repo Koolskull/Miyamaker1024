@@ -2,53 +2,53 @@
   "name": "Miyamaker #38",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/38.png",
-  "imageHash": "4494fdede5832d7b6635cb9b40b7d9e3fdfe85f71baef829224a3c967c1a4789",
+  "imageHash": "e5efe8276103922942baa95efd3f20b628f4ae4f43c0816c2384df849a25d89e",
   "edition": 38,
-  "date": 1711655869986,
+  "date": 1711656157565,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Q-Web Holographic"
+      "value": "Neon Night"
     },
     {
       "trait_type": "Body",
-      "value": "Mexican"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Brown Surprised"
+      "value": "Feline Eyes Yellow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "Black Lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Embroidered Miya Baseball Tee"
+      "value": "Pink Tank"
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight Straight Bangs with Diamond Clip"
+      "value": "Short Bob Pink and Blue VHS Glitch"
     },
     {
-      "trait_type": "Hat",
-      "value": "Christs Army Helmet"
+      "trait_type": "Mask",
+      "value": "VeilGazer Cyborg"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Blue"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Middle Finger"
+      "trait_type": "Overlay",
+      "value": "They Think im Dora the way my Bag Talk"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "There Is No Exit Pump Nigga"
+      "value": "Runescape Demon"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "Kunty Karen"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

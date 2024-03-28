@@ -2,57 +2,49 @@
   "name": "Miyamaker #2",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/2.png",
-  "imageHash": "1c47c645e3510eed53a8354fc20a92abaeedbc1f9b5ac8092496d6a88582df92",
+  "imageHash": "b4e682ba87ad7aa333a1dcf8b006f4e40543f54e38d2f0590255f4f678ed18a1",
   "edition": 2,
-  "date": 1711655856096,
+  "date": 1711656142118,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "I dont want to marry for convenience"
+      "value": "Safe as Milk"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Green"
     },
     {
       "trait_type": "Eyes",
-      "value": "Monochromatic Question Mark"
+      "value": "Closed Pleased"
     },
     {
       "trait_type": "Mouth",
-      "value": "Hangry"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Christs Cyber Army"
+      "value": "White Milady Dress with Pink Bow"
     },
     {
       "trait_type": "Hair",
-      "value": "McChibi Sailor Braid Buns"
+      "value": "Brown Long Wavy"
     },
     {
       "trait_type": "Mask",
-      "value": "Gasmask"
-    },
-    {
-      "trait_type": "Left Arm",
-      "value": "Samurai Sword with Blood"
-    },
-    {
-      "trait_type": "Right Arm",
-      "value": "Kpop Hand with Green Nails and Milady Tattoo"
-    },
-    {
-      "trait_type": "Overlay",
-      "value": "Radcat"
+      "value": "Spy Shades"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Holy Bible"
+      "value": "YOu SO Wanna Be Gangsta Like US"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "YOu SO Wanna Be Gangsta Like US"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

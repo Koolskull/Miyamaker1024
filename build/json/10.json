@@ -2,13 +2,13 @@
   "name": "Miyamaker #10",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/10.png",
-  "imageHash": "20be87c6be0ce9d9b29e27025e0692a2350456f87897afca9417c2b98871552a",
+  "imageHash": "a8a57ca610cbd7d3a1774f650010b9c159c53b4b4dac3cff276e124dc5fa7220",
   "edition": 10,
-  "date": 1711655859175,
+  "date": 1711656145637,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "NEVER GOON"
+      "value": "MiyaUniverse"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Raised Brow"
+      "value": "squinted"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Christs Cyber Army"
+      "value": "Red Baggy Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Brown Wavy"
+      "value": "Pastel Squiggel Blonde"
     },
     {
       "trait_type": "Hat",
-      "value": "Lawbster"
+      "value": "Dragon Princess Skull Crown"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Born to RAD"
+      "trait_type": "Left Arm",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Reaper DAW Scythe"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Calvin Piss"
+      "value": "You've been Loved by Christ"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

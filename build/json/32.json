@@ -2,17 +2,17 @@
   "name": "Miyamaker #32",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/32.png",
-  "imageHash": "8e71233bc917f1459090f700b270638dc28ff12b084775695b92e378d4b1cdcf",
+  "imageHash": "e7db1816da4ae35b050f7908d92f1225b20c3b50fbf06f064d2dcf54cdaa61a8",
   "edition": 32,
-  "date": 1711655867673,
+  "date": 1711656155118,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Japanese Goddess"
+      "value": "MiyaMeme"
     },
     {
       "trait_type": "Body",
-      "value": "Schizoposter Glitch Aura"
+      "value": "Holographic Internal Thrash"
     },
     {
       "trait_type": "Eyes",
@@ -20,31 +20,27 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Shiny Blush"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Western Jean Sleeveless"
+      "value": "Floral Western Top"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Pink Corrupted Glitch"
+      "value": "Short Brown Side Part"
     },
     {
-      "trait_type": "Overlay",
-      "value": "Runescape Login"
+      "trait_type": "Hat",
+      "value": "Green Fish"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "Lightcode Glitch 07"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "Veilgazer ERC20"
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

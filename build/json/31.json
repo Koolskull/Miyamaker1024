@@ -2,17 +2,17 @@
   "name": "Miyamaker #31",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/31.png",
-  "imageHash": "63315e81efe56920410efb29e761f446e882430c580f594c9a0ea0d8a4c85492",
+  "imageHash": "a3ad5c6c197046742c98b25f5a5c46868f4fd9e184723d98fb464610b1a0802b",
   "edition": 31,
-  "date": 1711655867121,
+  "date": 1711656154707,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Corona Virus Stan"
+      "value": "Aquarium Glitch"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "Reptil fangz"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Cyber Gladiator Pink"
+      "value": "Green Robe"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky Bangs M Cut Green"
+      "value": "Dyed Red Short"
     },
     {
-      "trait_type": "Hat",
-      "value": "Mutant Octopus"
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Handgun"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "They Think im Dora the way my Bag Talk"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Fact Checked"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "Keep it Trashy"
+      "value": "Korn Hub"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

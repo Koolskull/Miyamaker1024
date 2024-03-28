@@ -2,25 +2,25 @@
   "name": "Miyamaker #19",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/19.png",
-  "imageHash": "e09d41076bd67c1bfbce0fd702fb7e825fcf1dfad924577f5c642e6df512c87d",
+  "imageHash": "748dea254c2f622dfa0027da50233f4996fde59cf2a8a227643f0ed1552af4fe",
   "edition": 19,
-  "date": 1711655862586,
+  "date": 1711656149537,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Safe as Milk"
+      "value": "Baby DJ on Tiktok"
     },
     {
       "trait_type": "Body",
-      "value": "Tan"
+      "value": "Pink Alien"
     },
     {
       "trait_type": "Eyes",
-      "value": "Hangry"
+      "value": "closed 2"
     },
     {
       "trait_type": "Mouth",
-      "value": "Hangry"
+      "value": "Big smile"
     },
     {
       "trait_type": "Nose",
@@ -28,23 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Cyber Gladiator Pink"
+      "value": "Futuristic Sweater"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde choppy cut"
+      "value": "Brown Long Wavy"
     },
     {
-      "trait_type": "Hat",
-      "value": "Mutant Octopus"
-    },
-    {
-      "trait_type": "Overlay 2",
-      "value": "Thug That Shit Out Remilia"
+      "trait_type": "Overlay",
+      "value": "Veilgazer ERC20"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "Runescape Demon"
+      "value": "Lightcode Glitch 08"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,13 +2,13 @@
   "name": "Miyamaker #7",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/7.png",
-  "imageHash": "7c586e3de998c03e74bafd3865e5430c1cf3b34271bde430626e6b9a1d63b69a",
+  "imageHash": "2bd2d3de0c706a2920e501e228c6e0e111ae35c3df760a8157e14da248916d96",
   "edition": 7,
-  "date": 1711655858106,
+  "date": 1711656144267,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Texas Instrument Tracker"
+      "value": "Swan in Burbank"
     },
     {
       "trait_type": "Body",
@@ -16,31 +16,39 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Hyper-dimensional eyes"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "Reptil fangz"
+      "value": "mini smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Space Communist"
+      "value": "Bubblegum Bomber Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Asymmetrical impossible Cornrows"
+      "value": "Spiky Bangs M Cut Red"
     },
     {
-      "trait_type": "Mask",
-      "value": "Gasmask"
+      "trait_type": "Hat",
+      "value": "Starberry Beret"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "MFW Proven False on CNN"
+      "value": "Radcat"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "100 PERCENT CUTE"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

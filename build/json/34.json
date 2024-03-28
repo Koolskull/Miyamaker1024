@@ -2,41 +2,45 @@
   "name": "Miyamaker #34",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/34.png",
-  "imageHash": "0f18ff650ee5bf359b2aaf302a0bd7fb77fda7f5202e4d7d2a9d61479c5eb9a5",
+  "imageHash": "4ad810032456f0ffc1abded3e9b5287f551574ae0d0e9ff22364d54d056be9ed",
   "edition": 34,
-  "date": 1711655868444,
+  "date": 1711656155889,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Vapor Train"
+      "value": "Radcat Ghostrider with Skull Bus"
     },
     {
       "trait_type": "Body",
-      "value": "Venom Glitché"
+      "value": "Tan"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smile eyes"
+      "value": "Cuborg lazer eye"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Lipstick"
+      "value": "mini smirk"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Lavender Floral Quincenera Dress"
+      "value": "Ripped Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Mermaid Bun"
+      "value": "Purple Koolio Braids"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Green Gameb0y Color"
+      "trait_type": "Hat",
+      "value": "MAGA"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Needle Gun"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

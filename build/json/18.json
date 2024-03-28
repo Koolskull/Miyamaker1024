@@ -2,29 +2,29 @@
   "name": "Miyamaker #18",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/18.png",
-  "imageHash": "250095685c1ddb76f61cdbc906b8d1bb6ff43b29daaf6fc6fff751a0b890c560",
+  "imageHash": "f1f337265fac422f77db8661dbc7994342717b90b210bce128b158e488a1fb40",
   "edition": 18,
-  "date": 1711655862190,
+  "date": 1711656149067,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ornate Palace"
+      "value": "Swan in Burbank"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Jesus Glitch"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "closed 2"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "cigarette"
+      "value": "Big smile"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
@@ -32,15 +32,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Black Straight"
+      "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
     },
     {
       "trait_type": "Hat",
-      "value": "Cake Slice"
+      "value": "Trump Is My Nigga"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "I AM HOMOPHOBIC"
+      "trait_type": "Overlay 3",
+      "value": "Keep it Trashy"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

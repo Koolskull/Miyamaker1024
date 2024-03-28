@@ -2,13 +2,13 @@
   "name": "Miyamaker #13",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/13.png",
-  "imageHash": "4f3e07b24ea45cc57599853e6fee25be9d9072ae1045ca21b6a00aa7bee07363",
+  "imageHash": "4c938fa1f0dc3ad66b86163bf582e90e5dec7c13f39949889552c3f9e1c469ce",
   "edition": 13,
-  "date": 1711655860406,
+  "date": 1711656146965,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Night"
+      "value": "MiyaUniverse"
     },
     {
       "trait_type": "Body",
@@ -16,27 +16,43 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Heart Glimmer"
+      "value": "Aweee"
     },
     {
       "trait_type": "Mouth",
-      "value": "Red Lipstick"
+      "value": "Reptil fangz"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "White Milady Dress with Pink Bow"
+      "value": "Ripped Shirt"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple Koolio Braids"
+      "value": "Radbro Cut"
     },
     {
-      "trait_type": "Right Arm",
-      "value": "Wielding Electricity"
+      "trait_type": "Hat",
+      "value": "Strawbie"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Old Cellphone"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "BartMoney"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Calvin Piss"
+    },
+    {
+      "trait_type": "Overlay 3",
+      "value": "How Much I ACTUALLY love you"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

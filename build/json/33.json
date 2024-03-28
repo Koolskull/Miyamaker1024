@@ -2,25 +2,25 @@
   "name": "Miyamaker #33",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/33.png",
-  "imageHash": "71065b86151b88a785b28d0cf4b1f4ad2e72365cce28b8370e4697aab5099bd1",
+  "imageHash": "e191c9ef1a8c183b4ff8be8e5faca79eea2aea8d57530a8f82872374585916ac",
   "edition": 33,
-  "date": 1711655868026,
+  "date": 1711656155506,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Radcat Ghostrider with Skull Bus"
+      "value": "Alien Spaceship"
     },
     {
       "trait_type": "Body",
-      "value": "Light Tone"
+      "value": "Dark"
     },
     {
       "trait_type": "Eyes",
-      "value": "Reptilian Eyes"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
-      "value": "smile 1"
+      "value": "Stitched Shut"
     },
     {
       "trait_type": "Nose",
@@ -28,15 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Dark Green Miya Jogger with Neon Trim"
+      "value": "Embroidered Miya Baseball Tee"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Bob Blue"
+      "value": "Black Pigtails"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Vultures"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Golden Machine Gun"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Retardio Cigarettes"
+      "value": "Grab em by the Pussy In Bio"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

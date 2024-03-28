@@ -2,13 +2,13 @@
   "name": "Miyamaker #22",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/22.png",
-  "imageHash": "016b5776e105cfdb0a353317ee8f0088ac3b3c2561b806162d79a6996d6fe480",
+  "imageHash": "64cd4558389863edecf5dadabe6143398b3550f74014756e773c722849777f91",
   "edition": 22,
-  "date": 1711655863701,
+  "date": 1711656150895,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Y2K Browser"
+      "value": "wow she is LITERALLY me!"
     },
     {
       "trait_type": "Body",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Pink Heart Glimmer"
+      "value": "Sad McChibi"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Lipstick"
+      "value": "Light pink lipstick"
     },
     {
       "trait_type": "Nose",
@@ -32,27 +32,23 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Light Blue Braided"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Golden Silver Oni Mask"
+      "value": "Brown Curly"
     },
     {
       "trait_type": "Hat",
-      "value": "Period Bomb TV"
+      "value": "Remilia Corp Cap"
     },
     {
       "trait_type": "Left Arm",
       "value": "Lightsaber Red"
     },
     {
-      "trait_type": "Overlay 2",
-      "value": "Veilgazer ERC20"
+      "trait_type": "Overlay",
+      "value": "Blah Blah Blah"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "have you hugged an emo kid today"
+      "value": "YOu SO Wanna Be Gangsta Like US"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

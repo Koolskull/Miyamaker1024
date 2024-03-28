@@ -2,53 +2,49 @@
   "name": "Miyamaker #23",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/23.png",
-  "imageHash": "c74bd5de3ecb5577336e9e7664e5ae504c31f16c9dd65f05f943c59d78467793",
+  "imageHash": "d191858f2b72de463032b98da4a65622efa6fee8e1080f05244ff350e1f40f73",
   "edition": 23,
-  "date": 1711655864084,
+  "date": 1711656151338,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Crashing Waves"
+      "value": "Vapor Train"
     },
     {
       "trait_type": "Body",
-      "value": "Green"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Monochromatic Question Mark"
+      "value": "Green Raised Brow"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Lipstick"
+      "value": "Lighter pink lipstick"
     },
     {
       "trait_type": "Nose",
-      "value": "Hangry Blush"
+      "value": "Nose 1"
     },
     {
       "trait_type": "Top",
-      "value": "Overalls"
+      "value": "Orange Print Trenchcoat"
     },
     {
       "trait_type": "Hair",
-      "value": "Purple M-shape Bangs"
+      "value": "Green Seaweef hair with Pink Strips and Jellyfish Bow"
     },
     {
-      "trait_type": "Hat",
-      "value": "Princess Protection Cow Cap"
+      "trait_type": "Left Arm",
+      "value": "Machine Gun"
     },
     {
       "trait_type": "Overlay",
-      "value": "Trump Higher"
+      "value": "You Broke The CYcle"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "YOu SO Wanna Be Gangsta Like US"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "You Broke The CYcle"
+      "value": "Silk Road Logo"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

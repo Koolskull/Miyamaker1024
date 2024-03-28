@@ -2,21 +2,21 @@
   "name": "Miyamaker #3",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/3.png",
-  "imageHash": "f709aba28e48a15818d3933516b08fa96b3574f237f34968a01db276839c592b",
+  "imageHash": "f53926fa59240ac6db6c763bf79397dabaa4a5e097ca7847eac132304a114a77",
   "edition": 3,
-  "date": 1711655856456,
+  "date": 1711656142501,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "MiyaMakerPyramid"
+      "value": "Hindu Temple"
     },
     {
       "trait_type": "Body",
-      "value": "Ascended Vril BlueGreen"
+      "value": "Blue Alien"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sad McChibi"
+      "value": "Squinted Bushy Brows"
     },
     {
       "trait_type": "Mouth",
@@ -24,27 +24,23 @@
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Hangry Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Wrinkled Dark Grey Shirt"
+      "value": "Pink Tank"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Curly"
+      "value": "Short Bob Light Blonde"
     },
     {
-      "trait_type": "Left Arm",
-      "value": "Lightsaber Red"
+      "trait_type": "Hat",
+      "value": "Headturama"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Terry Webcam"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "Thug That Shit Out Remilia"
+      "value": "Kekistani Flag"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -2,25 +2,25 @@
   "name": "Miyamaker #30",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/30.png",
-  "imageHash": "907baca94d2e9157d7337027f0cf6abee8fe96119829828230f1f0d39c6f7d8b",
+  "imageHash": "853ed7a5b153ab6960d8a6e557bab30472c239bc6c1092050bf684ad02cbed96",
   "edition": 30,
-  "date": 1711655866792,
+  "date": 1711656154263,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Welcome to MSN"
+      "value": "Cops on the Metro"
     },
     {
       "trait_type": "Body",
-      "value": "Rainbow Noise Swirls"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Smile eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lighter pink lipstick"
+      "value": "Lil Smile"
     },
     {
       "trait_type": "Nose",
@@ -28,27 +28,19 @@
     },
     {
       "trait_type": "Top",
-      "value": "Bubblegum Bomber Jacket"
+      "value": "Purple Puffy Jacket"
     },
     {
       "trait_type": "Hair",
-      "value": "Radbro Cut"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "Berachain Cap"
+      "value": "Long Dreads"
     },
     {
       "trait_type": "Overlay",
-      "value": "Blood Splatter"
+      "value": "Classy Solana Coins"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "They Think im Dora the way my Bag Talk"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "Dredd Pirate Roberts"
+      "value": "Large Amounts of Money"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

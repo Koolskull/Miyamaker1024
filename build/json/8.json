@@ -2,25 +2,25 @@
   "name": "Miyamaker #8",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/8.png",
-  "imageHash": "696d8020dfdb5c144bf903f579588195027eeb47b89283b4422f472c6105fed5",
+  "imageHash": "716a27dfd35a544a28b4cf84475d07570b33d97336b7b6a5beea47315a6bf29e",
   "edition": 8,
-  "date": 1711655858463,
+  "date": 1711656144802,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cyborg Sister and ascended sisters"
+      "value": "Dark Angel Portal"
     },
     {
       "trait_type": "Body",
-      "value": "Dark"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Squinted Bushy Brows"
+      "value": "Half Open Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lil Smile"
+      "value": "Hangry"
     },
     {
       "trait_type": "Nose",
@@ -28,19 +28,23 @@
     },
     {
       "trait_type": "Top",
-      "value": "Green Jogger with Lavendar Trim"
+      "value": "Pink Milady Fluffy Cape"
     },
     {
       "trait_type": "Hair",
-      "value": "Radbro Cut Neon Glitch"
+      "value": "Short Brown Wavy"
     },
     {
-      "trait_type": "Hat",
-      "value": "Trump Is My Nigga"
+      "trait_type": "Right Arm",
+      "value": "Golden Axe"
     },
     {
       "trait_type": "Overlay",
-      "value": "Blah Blah Blah"
+      "value": "Lightcode Glitch 01"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "Lightcode Glitch 00"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

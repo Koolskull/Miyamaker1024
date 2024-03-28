@@ -2,21 +2,21 @@
   "name": "Miyamaker #4",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/4.png",
-  "imageHash": "4941c2b7cbe59e3eee4ef6ad71f2ec2b9305188f29d454bb601b07d3f804c31c",
+  "imageHash": "08579d07616bcaaeb2098ed722588dd6be8c6fa818a6aa3e0de7a07038b4e56e",
   "edition": 4,
-  "date": 1711655856913,
+  "date": 1711656143010,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Inside Salvation Mountain"
+      "value": "DTLA Under Bridge"
     },
     {
       "trait_type": "Body",
-      "value": "Neon Jesus Glitch"
+      "value": "Mexican"
     },
     {
       "trait_type": "Eyes",
-      "value": "Green Raised Brow"
+      "value": "Alien"
     },
     {
       "trait_type": "Mouth",
@@ -28,27 +28,27 @@
     },
     {
       "trait_type": "Top",
-      "value": "Miya Maid"
+      "value": "Sailor MXXN"
     },
     {
       "trait_type": "Hair",
-      "value": "Dreadlocks with Green Bangs"
+      "value": "Blonde Curls"
     },
     {
-      "trait_type": "Hat",
-      "value": "Miyamaker Great Again Red Trucker"
+      "trait_type": "Left Arm",
+      "value": "Master Chief Cigar"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Golden Axe"
     },
     {
       "trait_type": "Overlay",
-      "value": "have you hugged an emo kid today"
+      "value": "Lightcode Glitch 06"
     },
     {
       "trait_type": "Overlay 2",
-      "value": "Born to RAD"
-    },
-    {
-      "trait_type": "Overlay 3",
-      "value": "Your Opinion in the trash"
+      "value": "Milady SOldier"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

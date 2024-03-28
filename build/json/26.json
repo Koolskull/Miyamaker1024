@@ -2,49 +2,53 @@
   "name": "Miyamaker #26",
   "description": "This is the description of your NFT project, remember to replace this",
   "image": "ipfs://NewUriToReplace/26.png",
-  "imageHash": "222d9c8090623b2ef73b23e0553d6805c27c8219737347fd40ac35d216abdf86",
+  "imageHash": "43261586515cc07c2b78591ddc649bdd07861f9f2cab0d36626f9bb51d2cad03",
   "edition": 26,
-  "date": 1711655865142,
+  "date": 1711656152664,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Night"
+      "value": "Funky Fumo 42"
     },
     {
       "trait_type": "Body",
-      "value": "Glitch Aura"
+      "value": "Light Tone"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Heart Eyes"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Lipstick"
+      "value": "mildly grumpy"
     },
     {
       "trait_type": "Nose",
-      "value": "Nose 1"
+      "value": "Shiny Blush"
     },
     {
       "trait_type": "Top",
-      "value": "Neopolitan Hand Sewn Tee"
+      "value": "Sailor MXXN"
     },
     {
       "trait_type": "Hair",
-      "value": "Short Brown Side Part"
+      "value": "Pastel Green Emo Swoop"
     },
     {
       "trait_type": "Hat",
-      "value": "Remilia Corp Cap"
+      "value": "Mutant Octopus"
     },
     {
       "trait_type": "Overlay",
-      "value": "There Is No Exit Pump Nigga"
+      "value": "Lightcode Glitch 08"
+    },
+    {
+      "trait_type": "Overlay 2",
+      "value": "100 PERCENT CRAZY"
     },
     {
       "trait_type": "Overlay 3",
-      "value": "Laughs in Goth"
+      "value": "cuteSMS"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
